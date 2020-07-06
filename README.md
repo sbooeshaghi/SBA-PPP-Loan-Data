@@ -8,5 +8,5 @@ You will find an example Google Colab python notebook in the notebooks tab that 
 
 | Description 	| Notebook link 	|
 |-	|-	|
-|  Analyze SBA PPP Loan Data	| <a href="https://colab.research.google.com/github/sbooeshaghi/SBA-PPP-Loan-Data/blob/master/notebooks/load_data.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Analyze SBA PPP Loan Data"/></a> 	|
-|  	|  	|
+|  Load the data	| <a href="https://colab.research.google.com/github/sbooeshaghi/SBA-PPP-Loan-Data/blob/master/notebooks/load_data.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Analyze SBA PPP Loan Data"/></a> 	|
+|  Jobs retained	|  <a href="https://colab.research.google.com/github/sbooeshaghi/SBA-PPP-Loan-Data/blob/master/notebooks/jobs_retained.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>	|
