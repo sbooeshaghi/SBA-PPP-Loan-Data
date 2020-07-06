@@ -1,0 +1,418 @@
+LoanAmount,City,State,Zip,NAICSCode,BusinessType,RaceEthnicity,Gender,Veteran,NonProfit,JobsRetained,DateApproved,Lender,CD
+148376,SAIPAN,MP,96950,722511,Corporation,Unanswered,Unanswered,Unanswered,,66,04/27/2020,Bank of Guam,MP - 00
+146180,SAIPAN,MP,96950,611110,Non-Profit Organization,Unanswered,Unanswered,Unanswered,Y,27,04/30/2020,First Hawaiian Bank,MP - 00
+145907.5,SAIPAN,MP,96950,721199,Corporation,Unanswered,Unanswered,Unanswered,,24,04/30/2020,First Hawaiian Bank,MP - 00
+145000,SAIPAN,MP,96950,321999,Corporation,Unanswered,Unanswered,Unanswered,,38,04/15/2020,Bank of Guam,MP - 00
+145000,SAIPAN,MP,96950,424410,Corporation,Asian,Male Owned,Non-Veteran,,46,05/21/2020,Bank of Guam,MP - 00
+144900,SAIPAN,MP,96950,445110,Corporation,Unanswered,Unanswered,Unanswered,,39,04/15/2020,First Hawaiian Bank,MP - 00
+144391.3,TINIAN,MP,96952,111199,Corporation,Unanswered,Unanswered,Unanswered,,55,05/18/2020,Bank of Guam,MP - 00
+143905,SAIPAN,MP,96950,541330,Limited  Liability Company(LLC),Unanswered,Male Owned,Unanswered,,14,04/28/2020,First Hawaiian Bank,MP - 00
+142410,SAIPAN,MP,96950,424810,Corporation,Unanswered,Unanswered,Unanswered,,34,04/28/2020,Bank of Guam,MP - 00
+141864,SAIPAN,MP,96950,541110,Limited  Liability Company(LLC),Unanswered,Unanswered,Unanswered,,8,06/12/2020,First Hawaiian Bank,MP - 00
+135155,SAIPAN,MP,96950,236220,Subchapter S Corporation,Unanswered,Unanswered,Unanswered,,34,06/05/2020,First Hawaiian Bank,MP - 00
+134320,SAIPAN,MP,96950,999990,Corporation,Unanswered,Unanswered,Unanswered,,22,04/28/2020,First Hawaiian Bank,MP - 00
+130855,SAIPAN,MP,96950,621610,Corporation,Unanswered,Unanswered,Unanswered,,28,04/28/2020,First Hawaiian Bank,MP - 00
+130155,SAIPAN,MP,96950,452990,Corporation,Unanswered,Unanswered,Unanswered,,51,04/30/2020,First Hawaiian Bank,MP - 00
+129075,SAIPAN,MP,96950,999990,Corporation,Unanswered,Male Owned,Non-Veteran,,,04/15/2020,Bank of Hawaii,MP - 00
+125740.12,SAIPAN,MP,96950,524210,Corporation,White,Male Owned,Unanswered,,17,04/28/2020,Bank of Guam,MP - 00
+124260,SAIPAN,MP,96950,236115,Corporation,Unanswered,Unanswered,Unanswered,,25,04/09/2020,Bank of Guam,MP - 00
+120647.5,SAIPAN,MP,96950,483211,Corporation,Unanswered,Unanswered,Unanswered,,24,04/29/2020,First Hawaiian Bank,MP - 00
+119302.5,SAIPAN,MP,96950,446110,Limited  Liability Company(LLC),Unanswered,Unanswered,Unanswered,,15,04/28/2020,First Hawaiian Bank,MP - 00
+118627.5,SAIPAN NOTHERN MARIANA ISLAN,MP,96950,332439,Corporation,White,Male Owned,Non-Veteran,,12,05/01/2020,First Hawaiian Bank,MP - 00
+117870,SAIPAN,MP,96950,238910,Corporation,Unanswered,Unanswered,Unanswered,,14,06/12/2020,First Hawaiian Bank,MP - 00
+117692.5,SAIPAN,MP,96950,541219,Limited  Liability Company(LLC),Unanswered,Unanswered,Unanswered,,14,04/30/2020,First Hawaiian Bank,MP - 00
+116172.5,SAIPAN,MP,96950,621999,Non-Profit Organization,Unanswered,Unanswered,Unanswered,Y,21,04/27/2020,First Hawaiian Bank,MP - 00
+114300,SAIPAN,MP,96950,541330,Subchapter S Corporation,Unanswered,Unanswered,Unanswered,,14,04/28/2020,First Hawaiian Bank,MP - 00
+114000,SAIPAN,MP,96950,424110,Corporation,Unanswered,Unanswered,Unanswered,,,04/12/2020,Bank of Hawaii,MP - 00
+113935,SAIPAN,MP,96950,561720,Corporation,Unanswered,Unanswered,Unanswered,,,04/28/2020,Bank of Hawaii,MP - 00
+113052,SAIPAN,MP,96950,531110,Corporation,Unanswered,Unanswered,Unanswered,,33,04/14/2020,Bank of Guam,MP - 00
+110982.4,GUALO RAI,MP,96950,541690,Corporation,Unanswered,Unanswered,Unanswered,,28,05/01/2020,Bank of Guam,MP - 00
+109802.37,TINIAN,MP,96952,999990,Corporation,Asian,Male Owned,Non-Veteran,,27,04/27/2020,Bank of Guam,MP - 00
+107445,SAIPAN,MP,96950,448110,Corporation,Unanswered,Unanswered,Unanswered,,,04/14/2020,Bank of Hawaii,MP - 00
+106227.5,SAIPAN,MP,96950,621111,Limited  Liability Company(LLC),Unanswered,Male Owned,Non-Veteran,,13,04/28/2020,First Hawaiian Bank,MP - 00
+102947.5,SAIPAN,MP,96950,999990,Corporation,Unanswered,Unanswered,Unanswered,,15,04/28/2020,First Hawaiian Bank,MP - 00
+102939,SAIPAN,MP,96950,445110,Corporation,Unanswered,Unanswered,Unanswered,,,06/29/2020,Bank of Hawaii,MP - 00
+101762,SAIPAN,MP,96950,531190,Corporation,Unanswered,Unanswered,Unanswered,,,06/22/2020,Bank of Hawaii,MP - 00
+100315,SAIPAN,MP,96950,999990,Corporation,Unanswered,Unanswered,Unanswered,,23,04/13/2020,Bank of Guam,MP - 00
+98282.5,SAIPAN,MP,96950,813110,Non-Profit Organization,Unanswered,Unanswered,Unanswered,Y,36,04/30/2020,First Hawaiian Bank,MP - 00
+97500,SAIPAN,MP,96950,721110,Corporation,Unanswered,Unanswered,Unanswered,,30,06/04/2020,First Hawaiian Bank,MP - 00
+96361,SAIPAN,MP,96950,487210,Corporation,Unanswered,Unanswered,Unanswered,,,05/18/2020,Bank of Hawaii,MP - 00
+95560,SAIPAN,MP,96950,524210,Corporation,Unanswered,Unanswered,Unanswered,,,04/13/2020,Bank of Hawaii,MP - 00
+95125,SAIPAN,MP,96950,452319,Corporation,Unanswered,Unanswered,Unanswered,,,06/19/2020,Bank of Hawaii,MP - 00
+93855,SAIPAN,MP,96950,611110,Non-Profit Organization,Unanswered,Unanswered,Unanswered,Y,18,04/29/2020,First Hawaiian Bank,MP - 00
+93700,SAIPAN,MP,96950,722513,Corporation,Unanswered,Unanswered,Unanswered,,37,04/05/2020,Bank of Guam,MP - 00
+92500,SAIPAN,MP,96950,444130,Corporation,Asian,Male Owned,Non-Veteran,,21,05/20/2020,Bank of Guam,MP - 00
+91865,SAIPAN,MP,96950,236115,Limited  Liability Company(LLC),Unanswered,Unanswered,Unanswered,,211,05/26/2020,Cross River Bank,MP - 00
+91802.49,SAIPAN,MP,96950,722511,Corporation,Asian,Male Owned,Unanswered,,23,05/22/2020,Bank of Guam,MP - 00
+91155,SAIPAN,MP,96950,423120,Corporation,Unanswered,Unanswered,Unanswered,,13,04/09/2020,Bank of Guam,MP - 00
+90397.55,SAIPAN,MP,96950,481211,Corporation,Unanswered,Female Owned,Non-Veteran,,21,04/27/2020,Bank of Guam,MP - 00
+85587.5,SAIPAN,MP,96950,541618,Independent Contractors,Unanswered,Unanswered,Unanswered,,10,04/27/2020,First Hawaiian Bank,MP - 00
+84447.5,SAIPAN,MP,96950,999990,Corporation,Unanswered,Unanswered,Unanswered,,31,04/30/2020,First Hawaiian Bank,MP - 00
+83812.5,SAIPAN,MP,96950,611110,Non-Profit Organization,Unanswered,Unanswered,Unanswered,Y,14,04/28/2020,First Hawaiian Bank,MP - 00
+80360,SAIPAN,MP,96950,999990,Limited  Liability Company(LLC),Unanswered,Unanswered,Unanswered,,20,04/28/2020,First Hawaiian Bank,MP - 00
+79240,SAIPAN,MP,96950,423450,Corporation,Unanswered,Male Owned,Unanswered,,13,04/30/2020,First Hawaiian Bank,MP - 00
+79095,SAIPAN,MP,96950,541310,Corporation,Unanswered,Unanswered,Unanswered,,7,05/01/2020,First Hawaiian Bank,MP - 00
+78772.5,SAIPAN,MP,96950,722513,Limited  Liability Company(LLC),Unanswered,Unanswered,Unanswered,,35,04/28/2020,First Hawaiian Bank,MP - 00
+78160,SAIPAN,MP,96950,443142,Corporation,Unanswered,Male Owned,Non-Veteran,,11,04/30/2020,First Hawaiian Bank,MP - 00
+76847.57,ROTA,MP,96951,445110,Sole Proprietorship,Asian,Female Owned,Non-Veteran,,26,05/18/2020,Bank of Guam,MP - 00
+75970,SAIPAN,MP,96950,312113,Corporation,White,Male Owned,Non-Veteran,,26,05/14/2020,Bank of Guam,MP - 00
+75305,SAIPAN,MP,96950,236220,Corporation,Unanswered,Unanswered,Unanswered,,,06/19/2020,Bank of Hawaii,MP - 00
+75257.5,SAIPAN,MP,96950,236116,Corporation,Unanswered,Unanswered,Unanswered,,18,04/28/2020,First Hawaiian Bank,MP - 00
+74593,SAIPAN,MP,96950,332321,Corporation,Unanswered,Unanswered,Unanswered,,15,04/28/2020,First Hawaiian Bank,MP - 00
+74469,SAIPAN,MP,96950,532490,Corporation,Unanswered,Unanswered,Unanswered,,12,06/15/2020,First Hawaiian Bank,MP - 00
+73760,SAIPAN,MP,96950,999990,Corporation,Asian,Unanswered,Unanswered,,27,04/16/2020,Bank of Guam,MP - 00
+73262.5,SAIPAN,MP,96950,238220,Corporation,Asian,Male Owned,Non-Veteran,,11,05/21/2020,Bank of Guam,MP - 00
+72800,SAIPAN,MP,96950,445110,Corporation,Unanswered,Unanswered,Unanswered,,,06/24/2020,Bank of Hawaii,MP - 00
+71051,SAIPAN,MP,96950,561520,Corporation,Unanswered,Unanswered,Unanswered,,11,06/30/2020,"Kabbage, Inc.",MP - 00
+70936.55,ROTA MP,MP,96951,445110,Sole Proprietorship,Unanswered,Unanswered,Unanswered,,20,06/23/2020,Bank of Guam,MP - 00
+70252.5,SAIPAN,MP,96950,621111,Corporation,Unanswered,Unanswered,Unanswered,,16,05/05/2020,First Hawaiian Bank,MP - 00
+68335,SAIPAN,MP,96950,323111,Corporation,Unanswered,Unanswered,Unanswered,,15,04/30/2020,First Hawaiian Bank,MP - 00
+67745,SAIPAN,MP,96950,541219,Subchapter S Corporation,Unanswered,Unanswered,Unanswered,,7,04/30/2020,First Hawaiian Bank,MP - 00
+67525,SAIPAN,MP,96950,424410,Corporation,Unanswered,Male Owned,Unanswered,,11,04/28/2020,First Hawaiian Bank,MP - 00
+67500,SAIPAN,MP,96950,314120,Corporation,Unanswered,Unanswered,Unanswered,,16,04/30/2020,First Hawaiian Bank,MP - 00
+66944,SAIPAN,MP,96950,541330,Limited  Liability Company(LLC),Unanswered,Unanswered,Unanswered,,8,04/08/2020,Bank of Guam,MP - 00
+66770,SAIPAN,MP,96950,236115,Corporation,Unanswered,Unanswered,Unanswered,,15,04/30/2020,First Hawaiian Bank,MP - 00
+66107.5,SAIPAN,MP,96950,541110,Sole Proprietorship,Asian,Male Owned,Non-Veteran,,11,04/27/2020,Bank of Guam,MP - 00
+64650,SAIPAN,MP,96950,238990,Corporation,Unanswered,Unanswered,Unanswered,,36,06/12/2020,First Hawaiian Bank,MP - 00
+64360,SAIPAN,MP,96950,541990,Corporation,Unanswered,Unanswered,Unanswered,,,04/14/2020,Bank of Hawaii,MP - 00
+62770,SAIPAN,MP,96950,311811,Corporation,Unanswered,Unanswered,Unanswered,,20,04/30/2020,First Hawaiian Bank,MP - 00
+62500,SAIPAN,MP,96950,515120,Limited  Liability Company(LLC),Unanswered,Unanswered,Unanswered,,,04/15/2020,Bank of Hawaii,MP - 00
+60602.5,SAIPAN,MP,96950,541110,Limited  Liability Company(LLC),Unanswered,Unanswered,Unanswered,,11,04/28/2020,First Hawaiian Bank,MP - 00
+60260,SAIPAN,MP,96950,812331,Corporation,Unanswered,Unanswered,Unanswered,,14,04/30/2020,First Hawaiian Bank,MP - 00
+57762,SAIPAN,MP,96950,999990,Corporation,Unanswered,Unanswered,Unanswered,,13,04/28/2020,First Hawaiian Bank,MP - 00
+57500,SAIPAN,MP,96950,999990,Corporation,Unanswered,Unanswered,Unanswered,,19,04/30/2020,First Hawaiian Bank,MP - 00
+57440.85,SAIPAN,MP,96950,447110,Corporation,Asian,Male Owned,Non-Veteran,,21,04/28/2020,Bank of Guam,MP - 00
+57420,SAIPAN,MP,96950,323113,Corporation,Unanswered,Unanswered,Unanswered,,15,05/01/2020,First Hawaiian Bank,MP - 00
+57110,SAIPAN,MP,96950,621111,Corporation,Unanswered,Unanswered,Unanswered,,7,06/17/2020,First Hawaiian Bank,MP - 00
+56954,SAIPAN,MP,96950,713290,Corporation,Unanswered,Unanswered,Unanswered,,10,06/24/2020,First Hawaiian Bank,MP - 00
+56001.32,SAIPAN,MP,96950,524210,Corporation,Asian,Male Owned,Non-Veteran,,6,06/09/2020,Bank of Guam,MP - 00
+55208,SAIPAN,MP,96950,488510,Corporation,Unanswered,Unanswered,Unanswered,,,05/29/2020,Bank of Hawaii,MP - 00
+53467,SAIPAN,MP,96950,611110,Non-Profit Organization,Unanswered,Unanswered,Unanswered,Y,35,04/30/2020,First Hawaiian Bank,MP - 00
+52300,SAIPAN,MP,96950,541214,Limited  Liability Company(LLC),Unanswered,Unanswered,Unanswered,,7,04/13/2020,First Hawaiian Bank,MP - 00
+51250,SAIPAN,MP,96950,238220,Corporation,Unanswered,Male Owned,Unanswered,,11,04/27/2020,Bank of Guam,MP - 00
+50447.5,SAIPAN,MP,96950,444130,Corporation,Unanswered,Unanswered,Unanswered,,12,04/30/2020,First Hawaiian Bank,MP - 00
+50360,SAIPAN,MP,96950,481212,Limited  Liability Company(LLC),Unanswered,Male Owned,Non-Veteran,,12,04/10/2020,Bank of Guam,MP - 00
+49757.5,SAIPAN,MP,96950,713990,Corporation,Unanswered,Unanswered,Unanswered,,15,06/05/2020,First Hawaiian Bank,MP - 00
+49367,SAIPAN,MP,96950,562111,Corporation,Unanswered,Unanswered,Unanswered,,,05/14/2020,Bank of Hawaii,MP - 00
+49062,SAIPAN,MP,96950,445110,Corporation,Unanswered,Unanswered,Unanswered,,,06/25/2020,Bank of Hawaii,MP - 00
+48720,SAIPAN,MP,96950,812199,Sole Proprietorship,Unanswered,Unanswered,Unanswered,,8,05/20/2020,First Hawaiian Bank,MP - 00
+48524.52,SAIPAN,MP,96950,236115,Corporation,Asian,Male Owned,Unanswered,,16,04/28/2020,Bank of Guam,MP - 00
+48337,SAIPAN,MP,96950,811111,Corporation,Unanswered,Unanswered,Unanswered,,9,06/04/2020,First Hawaiian Bank,MP - 00
+47685,SAIPAN,MP,96950,721110,Corporation,Unanswered,Unanswered,Unanswered,,29,06/15/2020,First Hawaiian Bank,MP - 00
+47423,SAIPAN,MP,96950,722511,Corporation,Unanswered,Unanswered,Unanswered,,,05/14/2020,Bank of Hawaii,MP - 00
+47310,TINIAN,MP,96952,722511,Sole Proprietorship,Unanswered,Unanswered,Unanswered,,15,05/14/2020,Bank of Guam,MP - 00
+47134,SAIPAN,MP,96950,238990,Sole Proprietorship,Unanswered,Unanswered,Unanswered,,17,06/15/2020,First Hawaiian Bank,MP - 00
+46607,SAIPAN,MP,96950,561520,Corporation,Unanswered,Unanswered,Unanswered,,,05/11/2020,Bank of Hawaii,MP - 00
+46485,SAIPAN,MP,96950,334419,Corporation,Unanswered,Unanswered,Unanswered,,10,04/28/2020,First Hawaiian Bank,MP - 00
+46237.5,SAIPAN,MP,96950,621610,Limited  Liability Company(LLC),Unanswered,Unanswered,Unanswered,,13,04/30/2020,First Hawaiian Bank,MP - 00
+46015,SAIPAN,MP,96950,722511,Corporation,Unanswered,Unanswered,Unanswered,,11,04/28/2020,First Hawaiian Bank,MP - 00
+46000,SAIPAN,MP,96950,722511,Corporation,White,Male Owned,Non-Veteran,,14,04/27/2020,Bank of Guam,MP - 00
+45962.5,SAIPAN,MP,96950,424410,Corporation,Asian,Male Owned,Non-Veteran,,12,05/23/2020,Bank of Guam,MP - 00
+45741,SAIPAN,MP,96950,423610,Corporation,Asian,Female Owned,Non-Veteran,,,04/28/2020,Bank of Hawaii,MP - 00
+45205,SAIPAN,MP,96950,722511,Corporation,Unanswered,Unanswered,Unanswered,,12,04/28/2020,First Hawaiian Bank,MP - 00
+45000,SAIPAN,MP,96950,488510,Corporation,Unanswered,Unanswered,Unanswered,,,04/12/2020,Bank of Hawaii,MP - 00
+44722.5,SAIPAN,MP,96950,524298,Corporation,Unanswered,Unanswered,Unanswered,,6,04/30/2020,First Hawaiian Bank,MP - 00
+44196,"SAIPAN, MP",MP,96950,423990,Limited  Liability Company(LLC),Unanswered,Male Owned,Unanswered,,7,04/30/2020,Bank of Guam,MP - 00
+43447,SAIPAN,MP,96950,551114,Corporation,Unanswered,Male Owned,Non-Veteran,,,06/24/2020,Bank of Hawaii,MP - 00
+42615,SAIPAN,MP,96950,812320,Corporation,Unanswered,Unanswered,Unanswered,,10,04/29/2020,First Hawaiian Bank,MP - 00
+42500,SAIPAN,MP,96950,611620,Corporation,Unanswered,Unanswered,Unanswered,,,06/12/2020,Bank of Hawaii,MP - 00
+42335,SAIPAN,MP,96950,524126,Corporation,Unanswered,Unanswered,Unanswered,,9,06/12/2020,First Hawaiian Bank,MP - 00
+41305,SAIPAN,MP,96950,813410,Non-Profit Organization,Unanswered,Unanswered,Unanswered,Y,7,04/30/2020,First Hawaiian Bank,MP - 00
+40555.17,SAIPAN,MP,96950,424120,Corporation,Unanswered,Unanswered,Unanswered,,15,04/16/2020,Bank of Guam,MP - 00
+40000,SAIPAN,MP,96950,448130,Corporation,Unanswered,Unanswered,Unanswered,,11,04/13/2020,Bank of Guam,MP - 00
+39700,SAIPAN,MP,96950,721110,Limited  Liability Company(LLC),Unanswered,Unanswered,Unanswered,,20,04/06/2020,Bank of Guam,MP - 00
+39606,SAIPAN,MP,96950,443141,Corporation,Unanswered,Unanswered,Unanswered,,6,06/12/2020,First Hawaiian Bank,MP - 00
+39122,SAIPAN,MP,96950,541110,Limited  Liability Company(LLC),Unanswered,Unanswered,Unanswered,,5,05/13/2020,Bank of Hawaii,MP - 00
+39080,SAIPAN,MP,96950,452311,Corporation,Asian,Male Owned,Non-Veteran,,17,05/08/2020,Bank of Guam,MP - 00
+38377.75,ROTA,MP,96951,541618,Sole Proprietorship,Unanswered,Unanswered,Unanswered,,1,06/29/2020,Bank of Guam,MP - 00
+38031.97,SAIPAN,MP,96950,722511,Corporation,Asian,Female Owned,Non-Veteran,,8,05/26/2020,Bank of Guam,MP - 00
+37500,SAIPAN,MP,96950,722410,Corporation,Unanswered,Unanswered,Unanswered,,13,05/21/2020,Bank of Guam,MP - 00
+37462.75,SAIPAN,MP,96950,444130,Corporation,Unanswered,Unanswered,Unanswered,,10,04/16/2020,Bank of Guam,MP - 00
+37055,SAIPAN,MP,96950,561710,Corporation,Asian,Male Owned,Veteran,,,04/16/2020,Bank of Hawaii,MP - 00
+36768.95,SAIPAN,MP,96950,423210,Corporation,Unanswered,Unanswered,Unanswered,,12,04/28/2020,First Hawaiian Bank,MP - 00
+36745,SAIPAN,MP,96950,621210,Sole Proprietorship,Unanswered,Unanswered,Unanswered,,4,05/16/2020,First Hawaiian Bank,MP - 00
+36523.47,SAIPAN,MP,96950,813312,Non-Profit Organization,White,Female Owned,Non-Veteran,Y,5,05/14/2020,Bank of Guam,MP - 00
+36057,SAIPAN,MP,96950,424720,Corporation,Unanswered,Unanswered,Unanswered,,8,06/05/2020,First Hawaiian Bank,MP - 00
+35945,SAIPAN,MP,96950,722511,Sole Proprietorship,Unanswered,Unanswered,Unanswered,,,06/23/2020,Bank of Hawaii,MP - 00
+35850,SAIPAN,MP,96950,236116,Sole Proprietorship,Unanswered,Unanswered,Unanswered,,15,06/17/2020,First Hawaiian Bank,MP - 00
+35755,SAIPAN,MP,96950,451110,Corporation,Unanswered,Unanswered,Unanswered,,7,04/28/2020,First Hawaiian Bank,MP - 00
+35731,SAIPAN,MP,96950,561330,Corporation,Unanswered,Unanswered,Unanswered,,,06/23/2020,Bank of Hawaii,MP - 00
+34987.5,SAIPAN,MP,96950,812320,Corporation,Unanswered,Unanswered,Unanswered,,12,04/28/2020,First Hawaiian Bank,MP - 00
+34822,SAIPAN,MP,96950,624410,Limited  Liability Company(LLC),Unanswered,Female Owned,Non-Veteran,,11,04/13/2020,Bank of Guam,MP - 00
+34517.5,SAIPAN,MP,96950,722514,Corporation,Unanswered,Unanswered,Unanswered,,16,06/12/2020,First Hawaiian Bank,MP - 00
+34267,SAIPAN,MP,96950,236115,Limited  Liability Company(LLC),Unanswered,Unanswered,Unanswered,,,05/27/2020,Bank of Hawaii,MP - 00
+34125,SAIPAN,MP,96950,721110,Corporation,Unanswered,Unanswered,Unanswered,,10,06/04/2020,First Hawaiian Bank,MP - 00
+33805,SAIPAN,MP,96950,621610,Sole Proprietorship,Unanswered,Male Owned,Non-Veteran,,8,05/21/2020,First Hawaiian Bank,MP - 00
+33660,SAIPAN,MP,96950,561510,Subchapter S Corporation,Asian,Unanswered,Unanswered,,10,04/27/2020,Bank of Guam,MP - 00
+33382.5,SAIPAN,MP,96950,561612,Sole Proprietorship,Unanswered,Unanswered,Unanswered,,9,06/12/2020,First Hawaiian Bank,MP - 00
+33345,SAIPAN,MP,96950,541110,Limited  Liability Company(LLC),Unanswered,Unanswered,Unanswered,,,04/30/2020,Bank of Hawaii,MP - 00
+32924.37,SAIPAN,MP,96950,424410,Corporation,Asian,Male Owned,Non-Veteran,,6,05/14/2020,Bank of Guam,MP - 00
+32295,SAIPAN,MP,96950,561520,Corporation,Asian,Female Owned,Non-Veteran,,11,05/23/2020,Bank of Guam,MP - 00
+32130,SAIPAN,MP,96950,541219,Subchapter S Corporation,Unanswered,Unanswered,Unanswered,,5,04/28/2020,First Hawaiian Bank,MP - 00
+32122.5,SAIPAN,MP,96950,541191,Subchapter S Corporation,Unanswered,Male Owned,Unanswered,,4,04/28/2020,First Hawaiian Bank,MP - 00
+31660,SAIPAN,MP,96950,448150,Corporation,Unanswered,Unanswered,Unanswered,,12,06/15/2020,First Hawaiian Bank,MP - 00
+31050.97,TINIAN,MP,96952,541611,Limited  Liability Company(LLC),Asian,Male Owned,Non-Veteran,,3,04/29/2020,Bank of Guam,MP - 00
+31022.5,SAIPAN,MP,96950,424410,Corporation,Unanswered,Unanswered,Unanswered,,8,06/04/2020,First Hawaiian Bank,MP - 00
+30937.5,SAIPAN,MP,96950,721310,Corporation,Unanswered,Unanswered,Unanswered,,6,04/30/2020,First Hawaiian Bank,MP - 00
+30710,SAIPAN,MP,96950,621210,Corporation,Unanswered,Unanswered,Unanswered,,9,04/28/2020,First Hawaiian Bank,MP - 00
+29875,SAIPAN,MP,96950,541370,Limited  Liability Company(LLC),Unanswered,Unanswered,Unanswered,,5,04/27/2020,First Hawaiian Bank,MP - 00
+29797.5,SAIPAN,MP,96950,448310,Corporation,Unanswered,Unanswered,Unanswered,,5,04/16/2020,Bank of Guam,MP - 00
+29765,SAIPAN,MP,96950,999990,Corporation,Unanswered,Male Owned,Non-Veteran,,4,05/07/2020,First Hawaiian Bank,MP - 00
+29702.5,SAIPAN,MP,96950,999990,Limited  Liability Company(LLC),Unanswered,Unanswered,Unanswered,,8,05/01/2020,First Hawaiian Bank,MP - 00
+29600,SAIPAN,MP,96950,721110,Corporation,Unanswered,Unanswered,Unanswered,,8,04/30/2020,First Hawaiian Bank,MP - 00
+29562.8,TINIAN,MP,96952,312111,Corporation,Unanswered,Unanswered,Unanswered,,8,04/27/2020,Bank of Guam,MP - 00
+29275,SAIPAN,MP,96950,711219,Subchapter S Corporation,Unanswered,Unanswered,Unanswered,,7,04/30/2020,First Hawaiian Bank,MP - 00
+29011,SAIPAN,MP,96950,453220,Corporation,Unanswered,Unanswered,Unanswered,,11,06/15/2020,First Hawaiian Bank,MP - 00
+28792.5,SAIPAN,MP,96950,811412,Sole Proprietorship,Asian,Female Owned,Non-Veteran,,8,04/27/2020,Bank of Guam,MP - 00
+28605,SAIPAN,MP,96950,624410,Corporation,Unanswered,Unanswered,Unanswered,,17,04/30/2020,First Hawaiian Bank,MP - 00
+28589.45,TAMUNING,MP,96950,541219,Subchapter S Corporation,Unanswered,Unanswered,Unanswered,,5,04/30/2020,First Hawaiian Bank,MP - 00
+28332,SAIPAN,MP,96950,811219,Limited  Liability Company(LLC),Unanswered,Unanswered,Unanswered,,3,04/28/2020,Bank of Hawaii,MP - 00
+28167.5,SAIPAN,MP,96950,561520,Corporation,Unanswered,Unanswered,Unanswered,,8,04/30/2020,First Hawaiian Bank,MP - 00
+27863,SAIPAN,MP,96950,524210,Corporation,Unanswered,Unanswered,Unanswered,,5,04/10/2020,Bank of Guam,MP - 00
+27837.5,SAIPAN,MP,96950,722511,Corporation,Unanswered,Unanswered,Unanswered,,10,06/03/2020,First Hawaiian Bank,MP - 00
+27572.52,SAIPAN,MP,96950,323111,Corporation,Unanswered,Unanswered,Unanswered,,8,04/27/2020,Bank of Guam,MP - 00
+27500,SAIPAN,MP,96950,561110,Limited  Liability Company(LLC),Unanswered,Unanswered,Unanswered,,,04/14/2020,Bank of Hawaii,MP - 00
+27462,SAIPAN,MP,96950,423990,Corporation,Unanswered,Unanswered,Unanswered,,,05/10/2020,Bank of Hawaii,MP - 00
+27192.3,TINIAN,MP,96952,236116,Limited  Liability Company(LLC),Unanswered,Unanswered,Unanswered,,5,04/27/2020,Bank of Guam,MP - 00
+27090,SAIPAN,MP,96950,611310,Non-Profit Organization,Unanswered,Unanswered,Unanswered,Y,8,04/30/2020,First Hawaiian Bank,MP - 00
+26823,SAIPAN,MP,96950,813110,Non-Profit Organization,Unanswered,Unanswered,Unanswered,Y,3,06/03/2020,First Hawaiian Bank,MP - 00
+26782.97,SAIPAN,MP,96950,424490,Corporation,Asian,Male Owned,Non-Veteran,,13,04/27/2020,Bank of Guam,MP - 00
+26722,SAIPAN,MP,96950,722320,Sole Proprietorship,Unanswered,Unanswered,Unanswered,,9,06/12/2020,First Hawaiian Bank,MP - 00
+26427,SAIPAN,MP,96950,452210,Corporation,Unanswered,Unanswered,Unanswered,,,06/25/2020,Bank of Hawaii,MP - 00
+25655,SAIPAN,MP,96950,541110,Limited  Liability Company(LLC),Unanswered,Unanswered,Unanswered,,,06/01/2020,Bank of Hawaii,MP - 00
+25522.5,SAIPAN,MP,96950,441310,Corporation,Unanswered,Unanswered,Unanswered,,10,04/30/2020,First Hawaiian Bank,MP - 00
+25152,SAIPAN,MP,96950,532412,Corporation,Unanswered,Unanswered,Unanswered,,6,06/03/2020,First Hawaiian Bank,MP - 00
+25000,SAIPAN,MP,96950,441110,Corporation,Unanswered,Unanswered,Unanswered,,7,04/16/2020,Bank of Guam,MP - 00
+24652,SAIPAN,MP,96950,448310,Corporation,Unanswered,Unanswered,Unanswered,,4,04/30/2020,First Hawaiian Bank,MP - 00
+24542.5,SAIPAN,MP,96950,561612,Corporation,Unanswered,Unanswered,Unanswered,,11,06/05/2020,First Hawaiian Bank,MP - 00
+24497.5,SAIPAN,MP,96950,532490,Limited  Liability Company(LLC),Unanswered,Unanswered,Unanswered,,5,04/28/2020,First Hawaiian Bank,MP - 00
+24185,SAIPAN,MP,96950,524210,Corporation,Unanswered,Unanswered,Unanswered,,11,04/30/2020,First Hawaiian Bank,MP - 00
+24175,SAIPAN,MP,96950,999990,Corporation,Unanswered,Unanswered,Unanswered,,5,04/27/2020,Bank of Hawaii,MP - 00
+24172.5,SAIPAN,MP,96950,811412,Corporation,Unanswered,Unanswered,Unanswered,,8,04/30/2020,First Hawaiian Bank,MP - 00
+24022.5,SAIPAN,MP,96950,423720,Corporation,Unanswered,Male Owned,Unanswered,,3,04/30/2020,First Hawaiian Bank,MP - 00
+23945,SAIPAN,MP,96950,532111,Corporation,Unanswered,Unanswered,Unanswered,,7,04/30/2020,First Hawaiian Bank,MP - 00
+23605,SAIPAN,MP,96950,999990,Limited  Liability Company(LLC),Unanswered,Unanswered,Unanswered,,6,04/27/2020,First Hawaiian Bank,MP - 00
+23572.5,SAIPAN,MP,96950,561720,Corporation,Unanswered,Unanswered,Unanswered,,10,04/27/2020,First Hawaiian Bank,MP - 00
+23546,SAIPAN,MP,96950,561730,Sole Proprietorship,Unanswered,Unanswered,Unanswered,,5,05/19/2020,First Hawaiian Bank,MP - 00
+23500,SAIPAN,MP,96950,561440,Subchapter S Corporation,Unanswered,Unanswered,Unanswered,,,04/15/2020,Bank of Hawaii,MP - 00
+23382,SAIPAN,MP,96950,561510,Corporation,Unanswered,Unanswered,Unanswered,,7,04/28/2020,First Hawaiian Bank,MP - 00
+23000,SAIPAN,MP,96950,722513,Limited  Liability Company(LLC),Unanswered,Unanswered,Unanswered,,9,04/28/2020,First Hawaiian Bank,MP - 00
+23000,SAIPAN,MP,96950,531311,Limited  Liability Company(LLC),Unanswered,Unanswered,Unanswered,,5,04/30/2020,First Hawaiian Bank,MP - 00
+22695,SAIPAN,MP,96950,561520,Limited  Liability Company(LLC),Unanswered,Unanswered,Unanswered,,14,04/30/2020,First Hawaiian Bank,MP - 00
+22495,SAIPAN,MP,96950,561510,Corporation,Unanswered,Unanswered,Unanswered,,,04/28/2020,Bank of Hawaii,MP - 00
+22422,SAIPAN,MP,96950,811111,Corporation,Unanswered,Unanswered,Unanswered,,,04/15/2020,Bank of Hawaii,MP - 00
+22020,SAIPAN,MP,96950,813990,Non-Profit Organization,Unanswered,Male Owned,Unanswered,Y,3,05/01/2020,Bank of Guam,MP - 00
+21905,SAIPAN,MP,96950,424820,Corporation,Unanswered,Unanswered,Unanswered,,15,04/28/2020,First Hawaiian Bank,MP - 00
+21365,SAIPAN,MP,96950,551114,Corporation,Unanswered,Unanswered,Unanswered,,,06/05/2020,Bank of Hawaii,MP - 00
+21342,SAIPAN,MP,96950,621399,Corporation,Unanswered,Unanswered,Unanswered,,3,04/15/2020,Bank of Guam,MP - 00
+21247,SAIPAN,MP,96950,722511,Corporation,Unanswered,Unanswered,Unanswered,,7,04/30/2020,First Hawaiian Bank,MP - 00
+21076.17,SAIPAN,MP,96950,236115,Corporation,Unanswered,Unanswered,Unanswered,,8,04/30/2020,Bank of Guam,MP - 00
+21030,SAIPAN,MP,96950,236220,Limited  Liability Company(LLC),Unanswered,Unanswered,Unanswered,,15,04/28/2020,First Hawaiian Bank,MP - 00
+21000,SAIPAN,MP,96950,621210,Limited  Liability Company(LLC),Unanswered,Unanswered,Unanswered,,7,04/13/2020,Bank of Guam,MP - 00
+20837.5,SAIPAN,MP,96950,541219,Corporation,Asian,Male Owned,Non-Veteran,,8,06/22/2020,Bank of Guam,MP - 00
+20833.32,TINIAN,MP,96952,541611,Sole Proprietorship,Asian,Male Owned,Non-Veteran,,1,05/21/2020,Bank of Guam,MP - 00
+20833.32,SAIPAN,MP,96950,621330,Sole Proprietorship,Asian,Unanswered,Unanswered,,1,04/27/2020,Bank of Guam,MP - 00
+20625,SAIPAN,MP,96950,722511,Corporation,Unanswered,Unanswered,Unanswered,,8,04/28/2020,First Hawaiian Bank,MP - 00
+20492,SAIPAN,MP,96950,722511,Limited  Liability Company(LLC),Unanswered,Unanswered,Unanswered,,10,04/30/2020,First Hawaiian Bank,MP - 00
+20445,SAIPAN,MP,96950,999990,Corporation,Unanswered,Unanswered,Unanswered,,,04/16/2020,Bank of Hawaii,MP - 00
+20376,SAIPAN,MP,96950,624410,Corporation,Asian,Female Owned,Non-Veteran,,6,04/28/2020,Bank of Guam,MP - 00
+20357.5,SAIPAN,MP,96950,523930,Sole Proprietorship,Unanswered,Male Owned,Unanswered,,1,05/13/2020,First Hawaiian Bank,MP - 00
+20285,SAIPAN,MP,96950,722511,Corporation,Unanswered,Unanswered,Unanswered,,6,04/30/2020,First Hawaiian Bank,MP - 00
+20205,SAIPAN,MP,96950,541219,Corporation,Unanswered,Unanswered,Unanswered,,9,04/27/2020,First Hawaiian Bank,MP - 00
+19985,SAIPAN,MP,96950,532284,Sole Proprietorship,Unanswered,Unanswered,Unanswered,,6,04/28/2020,First Hawaiian Bank,MP - 00
+19762.5,SAIPAN,MP,96950,561410,Corporation,Unanswered,Unanswered,Unanswered,,6,05/03/2020,First Hawaiian Bank,MP - 00
+19667,SAIPAN,MP,96950,551114,Corporation,Unanswered,Male Owned,Non-Veteran,,,05/29/2020,Bank of Hawaii,MP - 00
+19611.67,SAIPAN,MP,96950,236220,Sole Proprietorship,Asian,Female Owned,Non-Veteran,,17,04/27/2020,Bank of Guam,MP - 00
+19590.65,ROTA,MP,96951,447110,Partnership,Unanswered,Male Owned,Unanswered,,8,06/24/2020,Bank of Guam,MP - 00
+19500,SAIPAN,MP,96950,722513,Corporation,Unanswered,Unanswered,Unanswered,,,05/10/2020,Bank of Hawaii,MP - 00
+19271,SAIPAN,MP,96950,713990,Corporation,Unanswered,Unanswered,Unanswered,,5,06/12/2020,First Hawaiian Bank,MP - 00
+19112.5,ROTA,MP,96951,236220,Sole Proprietorship,Asian,Unanswered,Unanswered,,6,04/27/2020,Bank of Guam,MP - 00
+19055,SAN ANTONIO,MP,96950,621111,Sole Proprietorship,Unanswered,Unanswered,Unanswered,,1,04/27/2020,Bank of Hawaii,MP - 00
+18810,ROTA,MP,96951,561520,Corporation,Asian,Male Owned,Non-Veteran,,7,04/28/2020,Bank of Guam,MP - 00
+18696,SAIPAN,MP,96950,611699,Limited  Liability Company(LLC),Unanswered,Unanswered,Unanswered,,,06/02/2020,Bank of Hawaii,MP - 00
+18625,SAIPAN,MP,96950,524126,Corporation,Unanswered,Unanswered,Unanswered,,4,06/04/2020,First Hawaiian Bank,MP - 00
+18540.1,"SAIPAN, MP",MP,96950,812210,Corporation,Asian,Female Owned,Non-Veteran,,6,05/14/2020,Bank of Guam,MP - 00
+18442.5,SAIPAN,MP,96950,323111,Corporation,Unanswered,Unanswered,Unanswered,,5,04/27/2020,First Hawaiian Bank,MP - 00
+18324.62,SAIPAN,MP,96950,531120,Limited  Liability Company(LLC),Asian,Male Owned,Non-Veteran,,6,05/01/2020,Bank of Guam,MP - 00
+17911.3,SAIPAN,MP,96950,722513,Corporation,Asian,Female Owned,Unanswered,,9,05/14/2020,Bank of Guam,MP - 00
+17482.5,SAIPAN,MP,96950,722511,Corporation,Unanswered,Unanswered,Unanswered,,4,04/29/2020,First Hawaiian Bank,MP - 00
+17075,SAIPAN,MP,96950,541380,Corporation,Unanswered,Unanswered,Unanswered,,3,04/30/2020,First Hawaiian Bank,MP - 00
+16832.5,SAIPAN,MP,96950,721191,Corporation,Unanswered,Unanswered,Unanswered,,4,04/28/2020,First Hawaiian Bank,MP - 00
+16708.92,SAIPAN,MP,96950,722513,Corporation,Asian,Male Owned,Non-Veteran,,7,06/22/2020,Bank of Guam,MP - 00
+16690,SAIPAN,MP,96950,487210,Corporation,Unanswered,Unanswered,Unanswered,,,06/15/2020,Bank of Hawaii,MP - 00
+16660,SAIPAN,MP,96950,446110,Subchapter S Corporation,Unanswered,Unanswered,Unanswered,,3,04/28/2020,First Hawaiian Bank,MP - 00
+16562.5,SAIPAN,MP,96950,999990,Corporation,Unanswered,Unanswered,Unanswered,,3,04/30/2020,First Hawaiian Bank,MP - 00
+16458.32,SAIPAN,MP,96950,561520,Corporation,Asian,Male Owned,Non-Veteran,,5,05/14/2020,Bank of Guam,MP - 00
+16400,ROTA,MP,96951,722511,Sole Proprietorship,Asian,Female Owned,Unanswered,,0,06/30/2020,Bank of Guam,MP - 00
+16167,SAIPAN,MP,96950,424720,Corporation,Asian,Unanswered,Unanswered,,3,06/04/2020,First Hawaiian Bank,MP - 00
+16131,SAIPAN,MP,96950,811310,Corporation,Unanswered,Unanswered,Unanswered,,3,06/15/2020,First Hawaiian Bank,MP - 00
+16083.2,SAIPAN,MP,96950,238210,Corporation,Asian,Male Owned,Non-Veteran,,4,04/30/2020,Bank of Guam,MP - 00
+15804,SAIPAN,MP,96950,551114,Corporation,Unanswered,Unanswered,Unanswered,,,05/20/2020,Bank of Hawaii,MP - 00
+15773,SAIPAN,MP,96950,722511,Limited  Liability Company(LLC),Unanswered,Male Owned,Non-Veteran,,,05/12/2020,Bank of Hawaii,MP - 00
+15682.5,SAIPAN,MP,96950,561520,Corporation,Unanswered,Unanswered,Unanswered,,8,04/28/2020,First Hawaiian Bank,MP - 00
+15378.4,SAIPAN,MP,96950,236116,Corporation,Asian,Female Owned,Non-Veteran,,4,04/27/2020,Bank of Guam,MP - 00
+15347.5,SAIPAN,MP,96950,423930,Corporation,Unanswered,Unanswered,Unanswered,,3,05/05/2020,First Hawaiian Bank,MP - 00
+15292,SAIPAN,MP,96950,812320,Corporation,Unanswered,Unanswered,Unanswered,,7,06/15/2020,First Hawaiian Bank,MP - 00
+15206.05,ROTA,MP,96951,423710,Corporation,Asian,Unanswered,Unanswered,,5,04/29/2020,Bank of Guam,MP - 00
+15000,SAIPAN,MP,96950,561612,Sole Proprietorship,Unanswered,Unanswered,Unanswered,,,06/29/2020,Bank of Hawaii,MP - 00
+14979,SAIPAN,MP,96950,611110,Non-Profit Organization,Unanswered,Unanswered,Unanswered,Y,3,06/12/2020,First Hawaiian Bank,MP - 00
+14837,SAIPAN,MP,96950,515112,Sole Proprietorship,Unanswered,Male Owned,Unanswered,,,06/09/2020,Bank of Hawaii,MP - 00
+14565,SAIPAN,MP,96950,312120,Limited  Liability Company(LLC),Unanswered,Unanswered,Unanswered,,4,06/05/2020,First Hawaiian Bank,MP - 00
+14517.5,SAIPAN,MP,96950,722511,Sole Proprietorship,Unanswered,Unanswered,Unanswered,,5,05/01/2020,First Hawaiian Bank,MP - 00
+14462.5,SAIPAN,MP,96950,811490,Corporation,Unanswered,Unanswered,Unanswered,,11,06/15/2020,First Hawaiian Bank,MP - 00
+14442,SAIPAN,MP,96950,722511,Corporation,Unanswered,Unanswered,Unanswered,,7,04/27/2020,Bank of Hawaii,MP - 00
+14437.5,SAIPAN,MP,96950,812112,Corporation,Unanswered,Male Owned,Unanswered,,12,06/23/2020,Bank of Guam,MP - 00
+14407.5,SAIPAN,MP,96950,444110,Corporation,Unanswered,Unanswered,Unanswered,,5,04/28/2020,First Hawaiian Bank,MP - 00
+14312.87,SAIPAN,MP,96950,323111,Corporation,Asian,Male Owned,Non-Veteran,,4,05/01/2020,Bank of Guam,MP - 00
+14105,SAIPAN,MP,96950,541110,Sole Proprietorship,Unanswered,Unanswered,Unanswered,,,06/22/2020,Bank of Hawaii,MP - 00
+14037.5,SAIPAN,MP,96950,532490,Corporation,Unanswered,Unanswered,Unanswered,,4,04/28/2020,First Hawaiian Bank,MP - 00
+13799,SAIPAN,MP,96950,452319,Limited  Liability Company(LLC),Unanswered,Unanswered,Unanswered,,5,06/17/2020,First Hawaiian Bank,MP - 00
+13757,SAIPAN,MP,96950,561510,Corporation,Unanswered,Unanswered,Unanswered,,3,04/16/2020,Bank of Guam,MP - 00
+13657.5,SAIPAN,MP,96950,541219,Sole Proprietorship,Unanswered,Unanswered,Unanswered,,4,04/30/2020,First Hawaiian Bank,MP - 00
+13564,SAIPAN,MP,96950,453110,Sole Proprietorship,Asian,Female Owned,Non-Veteran,,4,05/07/2020,Bank of Guam,MP - 00
+13377,SAIPAN,MP,96950,722410,Sole Proprietorship,Unanswered,Unanswered,Unanswered,,6,06/05/2020,First Hawaiian Bank,MP - 00
+13262.5,SAIPAN,MP,96950,722511,Corporation,Unanswered,Unanswered,Unanswered,,3,04/30/2020,First Hawaiian Bank,MP - 00
+13064,SAIPAN,MP,96950,452319,Corporation,Unanswered,Unanswered,Unanswered,,4,06/02/2020,First Hawaiian Bank,MP - 00
+13005,SAIPAN,MP,96950,561510,Corporation,Unanswered,Unanswered,Unanswered,,4,04/13/2020,Bank of Hawaii,MP - 00
+12982.5,SAIPAN,MP,96950,541219,Corporation,Unanswered,Unanswered,Unanswered,,3,04/28/2020,First Hawaiian Bank,MP - 00
+12862,SAIPAN,MP,96950,541110,Sole Proprietorship,Unanswered,Unanswered,Unanswered,,1,06/12/2020,First Hawaiian Bank,MP - 00
+12857,SAIPAN,MP,96950,448150,Corporation,Unanswered,Unanswered,Unanswered,,5,04/30/2020,First Hawaiian Bank,MP - 00
+12785,SAIPAN,MP,96950,541810,Corporation,Unanswered,Unanswered,Unanswered,,,06/06/2020,Bank of Hawaii,MP - 00
+12784.67,SAIPAN,MP,96950,531210,Limited  Liability Company(LLC),Unanswered,Unanswered,Unanswered,,3,05/23/2020,Bank of Guam,MP - 00
+12560,SAIPAN,MP,96950,722511,Corporation,Unanswered,Unanswered,Unanswered,,4,04/30/2020,First Hawaiian Bank,MP - 00
+12500,SAIPAN,MP,96950,531390,Limited  Liability Company(LLC),Unanswered,Unanswered,Unanswered,,,05/15/2020,Bank of Hawaii,MP - 00
+12500,SAIPAN,MP,96950,811310,Self-Employed Individuals,Unanswered,Unanswered,Unanswered,,1,06/05/2020,First Hawaiian Bank,MP - 00
+12400,SAIPAN,MP,96950,541110,Sole Proprietorship,White,Male Owned,Veteran,,3,04/28/2020,Bank of Guam,MP - 00
+12337,SAIPAN,MP,96950,811219,Corporation,Unanswered,Unanswered,Unanswered,,,06/04/2020,Bank of Hawaii,MP - 00
+12127.5,SAIPAN,MP,96950,325120,Corporation,Unanswered,Unanswered,Unanswered,,3,06/12/2020,First Hawaiian Bank,MP - 00
+12072.5,SAIPAN,MP,96950,541110,Limited  Liability Company(LLC),Unanswered,Unanswered,Unanswered,,2,04/29/2020,First Hawaiian Bank,MP - 00
+12000,SAIPAN,MP,96950,453220,Corporation,Unanswered,Unanswered,Unanswered,,,06/23/2020,Bank of Hawaii,MP - 00
+12000,SAIPAN,MP,96950,811212,Limited  Liability Company(LLC),Unanswered,Unanswered,Unanswered,,2,04/30/2020,First Hawaiian Bank,MP - 00
+11807,SAIPAN,MP,96950,488510,Corporation,Unanswered,Male Owned,Non-Veteran,,1,04/30/2020,First Hawaiian Bank,MP - 00
+11668.37,TINIAN,MP,96952,541611,Sole Proprietorship,Unanswered,Unanswered,Unanswered,,1,06/29/2020,Bank of Guam,MP - 00
+11605,SAIPAN,MP,96950,722511,Corporation,Unanswered,Unanswered,Unanswered,,5,04/28/2020,First Hawaiian Bank,MP - 00
+11558,SAIPAN,MP,96950,624410,Corporation,Unanswered,Unanswered,Unanswered,,,06/21/2020,Bank of Hawaii,MP - 00
+11409,SAIPAN,MP,96950,424940,Corporation,Unanswered,Unanswered,Unanswered,,4,04/09/2020,Bank of Guam,MP - 00
+11400,SAIPAN,MP,96950,561730,Corporation,Unanswered,Unanswered,Unanswered,,3,04/28/2020,First Hawaiian Bank,MP - 00
+11237.32,SAIPAN,MP,96950,423120,Corporation,Asian,Male Owned,Unanswered,,5,04/27/2020,Bank of Guam,MP - 00
+11110,SAIPAN,MP,96950,722511,Limited  Liability Company(LLC),Unanswered,Unanswered,Unanswered,,,06/18/2020,Bank of Hawaii,MP - 00
+10895,SAIPAN,MP,96950,532411,Corporation,Unanswered,Unanswered,Unanswered,,3,06/29/2020,Bank of Guam,MP - 00
+10850,SAIPAN,MP,96950,541110,Limited  Liability Company(LLC),Unanswered,Unanswered,Unanswered,,2,04/30/2020,First Hawaiian Bank,MP - 00
+10822.5,SAIPAN,MP,96950,443142,Corporation,Unanswered,Unanswered,Unanswered,,2,04/30/2020,First Hawaiian Bank,MP - 00
+10777,SAIPAN,MP,96950,811111,Corporation,Unanswered,Unanswered,Unanswered,,3,04/30/2020,First Hawaiian Bank,MP - 00
+10700,SAIPAN,MP,96950,448140,Corporation,Unanswered,Unanswered,Unanswered,,4,05/19/2020,First Hawaiian Bank,MP - 00
+10525,SAIPAN,MP,96950,561520,Corporation,Unanswered,Unanswered,Unanswered,,3,04/14/2020,Bank of Hawaii,MP - 00
+10517.5,SAIPAN,MP,96950,452990,Limited  Liability Company(LLC),Unanswered,Unanswered,Unanswered,,3,04/30/2020,First Hawaiian Bank,MP - 00
+10337.95,SAIPAN,MP,96950,561612,Corporation,Asian,Female Owned,Non-Veteran,,2,04/27/2020,Bank of Guam,MP - 00
+10277,SAIPAN,MP,96950,541512,Sole Proprietorship,Unanswered,Unanswered,Unanswered,,,05/08/2020,Bank of Hawaii,MP - 00
+10205,SAIPAN,MP,96950,452319,Limited  Liability Company(LLC),Unanswered,Unanswered,Unanswered,,2,04/30/2020,First Hawaiian Bank,MP - 00
+10173,SAIPAN,MP,96950,531210,Limited  Liability Company(LLC),Unanswered,Unanswered,Unanswered,,,06/01/2020,Bank of Hawaii,MP - 00
+10100,SAIPAN,MP,96950,541511,Corporation,Unanswered,Unanswered,Unanswered,,2,04/28/2020,First Hawaiian Bank,MP - 00
+9860,SAIPAN,MP,96950,561510,Limited  Liability Company(LLC),Unanswered,Unanswered,Unanswered,,,06/25/2020,Bank of Hawaii,MP - 00
+9854.57,ROTA,MP,96951,444130,Sole Proprietorship,Asian,Male Owned,Unanswered,,4,06/09/2020,Bank of Guam,MP - 00
+9660,SAIPAN,MP,96950,532411,Subchapter S Corporation,Asian,Male Owned,Non-Veteran,,2,05/20/2020,Bank of Guam,MP - 00
+9650,SAIPAN,MP,96950,423220,Corporation,Unanswered,Unanswered,Unanswered,,2,04/30/2020,First Hawaiian Bank,MP - 00
+9597.22,ROTA,MP,96951,722511,Sole Proprietorship,Asian,Female Owned,Non-Veteran,,5,05/23/2020,Bank of Guam,MP - 00
+9595,SAIPAN,MP,96950,611620,Sole Proprietorship,Unanswered,Unanswered,Unanswered,,1,06/04/2020,First Hawaiian Bank,MP - 00
+9560,SAIPAN,MP,96950,541921,Corporation,Unanswered,Unanswered,Unanswered,,4,04/28/2020,First Hawaiian Bank,MP - 00
+9425,SAIPAN,MP,96950,445110,Corporation,White,Male Owned,Veteran,,4,05/01/2020,Bank of Guam,MP - 00
+9000,SAIPAN,MP,96950,423120,Corporation,Unanswered,Unanswered,Unanswered,,2,04/30/2020,First Hawaiian Bank,MP - 00
+8900,SAIPAN,MP,96950,813219,Non-Profit Organization,Unanswered,Unanswered,Unanswered,Y,,06/23/2020,Bank of Hawaii,MP - 00
+8825,SAIPAN,MP,96950,611610,Corporation,Unanswered,Unanswered,Unanswered,,3,04/30/2020,First Hawaiian Bank,MP - 00
+8750.21,SAIPAN,MP,96950,541612,Subchapter S Corporation,White,Male Owned,Veteran,,2,06/29/2020,Bank of Guam,MP - 00
+8750,SAIPAN,MP,96950,541213,Limited  Liability Company(LLC),Unanswered,Unanswered,Unanswered,,1,04/28/2020,First Hawaiian Bank,MP - 00
+8722.5,SAIPAN,MP,96950,722511,Corporation,Unanswered,Unanswered,Unanswered,,5,06/04/2020,First Hawaiian Bank,MP - 00
+8700,SAIPAN,MP,96950,441310,Limited  Liability Company(LLC),Unanswered,Unanswered,Unanswered,,3,04/28/2020,First Hawaiian Bank,MP - 00
+8677.5,SAIPAN,MP,96950,722511,Corporation,Unanswered,Unanswered,Unanswered,,3,06/12/2020,First Hawaiian Bank,MP - 00
+8650,SAIPAN,MP,96950,532111,Corporation,Unanswered,Unanswered,Unanswered,,3,04/30/2020,First Hawaiian Bank,MP - 00
+8571,SAIPAN,MP,96950,611610,Limited  Liability Company(LLC),Unanswered,Unanswered,Unanswered,,2,06/05/2020,First Hawaiian Bank,MP - 00
+8562.5,SAIPAN,MP,96950,483211,Corporation,Unanswered,Unanswered,Unanswered,,2,04/30/2020,First Hawaiian Bank,MP - 00
+8562.5,SAIPAN,MP,96950,531311,Sole Proprietorship,Unanswered,Unanswered,Unanswered,,2,04/30/2020,First Hawaiian Bank,MP - 00
+8357,SAIPAN,MP,96950,454390,Corporation,Unanswered,Unanswered,Unanswered,,3,05/08/2020,Bank of Hawaii,MP - 00
+8115,SAIPAN,MP,96950,453998,Corporation,Unanswered,Unanswered,Unanswered,,3,06/15/2020,First Hawaiian Bank,MP - 00
+8022.5,CNMI,MP,96950,531110,Limited  Liability Company(LLC),Asian,Unanswered,Unanswered,,1,04/27/2020,Bank of Guam,MP - 00
+7987.5,SAIPAN,MP,96950,238210,Corporation,Unanswered,Unanswered,Unanswered,,2,04/28/2020,First Hawaiian Bank,MP - 00
+7980,SAIPAN,MP,96950,532310,Corporation,Unanswered,Unanswered,Unanswered,,2,06/12/2020,First Hawaiian Bank,MP - 00
+7955,SAIPAN,MP,96950,453998,Corporation,Unanswered,Unanswered,Unanswered,,4,06/15/2020,First Hawaiian Bank,MP - 00
+7875,SAIPAN,MP,96950,813110,Non-Profit Organization,Unanswered,Unanswered,Unanswered,Y,2,06/12/2020,First Hawaiian Bank,MP - 00
+7862.72,SAIPAN,MP,96950,524210,Limited  Liability Company(LLC),Unanswered,Unanswered,Unanswered,,6,06/09/2020,Bank of Guam,MP - 00
+7822.5,SAIPAN,MP,96950,424820,Corporation,Unanswered,Unanswered,Unanswered,,3,04/30/2020,First Hawaiian Bank,MP - 00
+7744.37,SAIPAN,MP,96950,423610,Corporation,Unanswered,Female Owned,Non-Veteran,,2,06/29/2020,Bank of Guam,MP - 00
+7637,SAIPAN,MP,96950,541921,Limited  Liability Company(LLC),Unanswered,Unanswered,Unanswered,,,04/30/2020,Bank of Hawaii,MP - 00
+7567.62,SAIPAN,MP,96950,453998,Corporation,Asian,Female Owned,Non-Veteran,,3,04/28/2020,Bank of Guam,MP - 00
+7500,SAIPAN,MP,96950,561520,Corporation,Unanswered,Unanswered,Unanswered,,3,04/30/2020,First Hawaiian Bank,MP - 00
+7500,SAIPAN,MP,96950,611699,Corporation,Unanswered,Unanswered,Unanswered,,2,06/17/2020,First Hawaiian Bank,MP - 00
+7500,SAIPAN,MP,96950,327331,Corporation,Unanswered,Unanswered,Unanswered,,1,06/05/2020,First Hawaiian Bank,MP - 00
+7473.82,SAIPAN,MP,96950,488310,Subchapter S Corporation,Unanswered,Male Owned,Veteran,,4,06/18/2020,Bank of Guam,MP - 00
+7390,SAIPAN,MP,96950,812112,Corporation,Unanswered,Unanswered,Unanswered,,3,04/28/2020,First Hawaiian Bank,MP - 00
+7275,SAIPAN,MP,96950,722511,Corporation,Unanswered,Unanswered,Unanswered,,2,05/03/2020,Bank of Hawaii,MP - 00
+7205,SAIPAN,MP,96950,722511,Corporation,Unanswered,Unanswered,Unanswered,,3,06/05/2020,First Hawaiian Bank,MP - 00
+7187.5,SAIPAN,MP,96950,448310,Corporation,Unanswered,Unanswered,Unanswered,,3,05/05/2020,First Hawaiian Bank,MP - 00
+7115,SAIPAN,MP,96950,445120,Corporation,Unanswered,Male Owned,Unanswered,,3,04/27/2020,Bank of Guam,MP - 00
+7112.5,SAIPAN,MP,96950,541512,Corporation,Unanswered,Unanswered,Unanswered,,1,04/30/2020,First Hawaiian Bank,MP - 00
+7000,SAIPAN,MP,96950,611610,Corporation,Unanswered,Unanswered,Unanswered,,2,04/30/2020,First Hawaiian Bank,MP - 00
+6952.5,SAIPAN,MP,96950,561710,Limited  Liability Company(LLC),Unanswered,Unanswered,Unanswered,,2,04/28/2020,First Hawaiian Bank,MP - 00
+6950,SAIPAN,MP,96950,541620,Sole Proprietorship,Unanswered,Unanswered,Unanswered,,1,05/04/2020,First Hawaiian Bank,MP - 00
+6937.5,SAIPAN,MP,96950,712190,Corporation,Unanswered,Unanswered,Unanswered,,3,04/30/2020,First Hawaiian Bank,MP - 00
+6902,SAIPAN,MP,96950,561990,Corporation,Unanswered,Unanswered,Unanswered,,2,05/14/2020,First Hawaiian Bank,MP - 00
+6884,SAIPAN,MP,96950,561520,Corporation,Unanswered,Unanswered,Unanswered,,2,06/12/2020,First Hawaiian Bank,MP - 00
+6802.5,SAIPAN,MP,96950,532291,Limited  Liability Company(LLC),Unanswered,Male Owned,Unanswered,,2,04/28/2020,First Hawaiian Bank,MP - 00
+6777,SAIPAN,MP,96950,448140,Corporation,Unanswered,Unanswered,Unanswered,,2,04/28/2020,First Hawaiian Bank,MP - 00
+6750,SAIPAN,MP,96950,611620,Corporation,Unanswered,Unanswered,Unanswered,,2,06/15/2020,First Hawaiian Bank,MP - 00
+6737,SAIPAN,MP,96950,445299,Corporation,Unanswered,Unanswered,Unanswered,,,05/18/2020,Bank of Hawaii,MP - 00
+6717.5,SAIPAN,MP,96950,541611,Sole Proprietorship,Unanswered,Unanswered,Unanswered,,1,05/01/2020,First Hawaiian Bank,MP - 00
+6450,SAIPAN,MP,96950,541921,Corporation,Unanswered,Unanswered,Unanswered,,103,04/30/2020,First Hawaiian Bank,MP - 00
+6250,SAIPAN,MP,96950,611620,Corporation,Unanswered,Unanswered,Unanswered,,1,06/12/2020,First Hawaiian Bank,MP - 00
+6250,SAIPAN,MP,96950,561520,Corporation,Unanswered,Unanswered,Unanswered,,2,04/30/2020,First Hawaiian Bank,MP - 00
+6132.5,SAIPAN,MP,96950,722515,Non-Profit Organization,Unanswered,Unanswered,Unanswered,Y,4,04/30/2020,First Hawaiian Bank,MP - 00
+6127.27,SAIPAN,MP,96950,813410,Non-Profit Organization,White,Female Owned,Non-Veteran,Y,2,05/20/2020,Bank of Guam,MP - 00
+6100,SAIPAN,MP,96950,561520,Corporation,Unanswered,Unanswered,Unanswered,,1,04/30/2020,First Hawaiian Bank,MP - 00
+6082,SAIPAN,MP,96950,722511,Limited  Liability Company(LLC),Unanswered,Unanswered,Unanswered,,5,05/01/2020,First Hawaiian Bank,MP - 00
+6067.5,SAIPAN,MP,96950,452990,Subchapter S Corporation,Unanswered,Unanswered,Unanswered,,6,04/30/2020,First Hawaiian Bank,MP - 00
+6000,TINIAN,MP,96952,445120,Sole Proprietorship,Unanswered,Unanswered,Unanswered,,5,06/25/2020,Bank of Guam,MP - 00
+5745,SAIPAN,MP,96950,812310,Corporation,Unanswered,Unanswered,Unanswered,,3,06/04/2020,First Hawaiian Bank,MP - 00
+5707.5,SAIPAN,MP,96950,721191,Corporation,Unanswered,Unanswered,Unanswered,,2,04/28/2020,First Hawaiian Bank,MP - 00
+5370,SAIPAN,MP,96950,541930,Corporation,Unanswered,Unanswered,Unanswered,,1,04/30/2020,First Hawaiian Bank,MP - 00
+5000,SAIPAN,MP,96950,524298,Corporation,Unanswered,Unanswered,Unanswered,,2,04/30/2020,First Hawaiian Bank,MP - 00
+5000,SAIPAN,MP,96950,561510,Corporation,Unanswered,Unanswered,Unanswered,,2,04/27/2020,First Hawaiian Bank,MP - 00
+5000,SAIPAN,MP,96950,311811,Limited  Liability Company(LLC),Unanswered,Unanswered,Unanswered,,4,06/05/2020,First Hawaiian Bank,MP - 00
+4895,SAIPAN,MP,96950,311920,Limited  Liability Company(LLC),Unanswered,Male Owned,Non-Veteran,,,05/29/2020,Bank of Hawaii,MP - 00
+4706,SAIPAN,MP,96950,812112,Corporation,Unanswered,Unanswered,Unanswered,,4,06/05/2020,First Hawaiian Bank,MP - 00
+4602.5,SAIPAN,MP,96950,451211,Corporation,Asian,Female Owned,Non-Veteran,,1,04/30/2020,Bank of Guam,MP - 00
+4570,SAIPAN,MP,96950,722513,Limited  Liability Company(LLC),Unanswered,Unanswered,Unanswered,,4,04/30/2020,First Hawaiian Bank,MP - 00
+4412.5,SAIPAN,MP,96950,562111,Limited  Liability Company(LLC),Unanswered,Unanswered,Unanswered,,3,04/30/2020,First Hawaiian Bank,MP - 00
+4250,SAIPAN,MP,96950,812112,Subchapter S Corporation,Unanswered,Unanswered,Unanswered,,1,04/30/2020,First Hawaiian Bank,MP - 00
+4202.5,SAIPAN,MP,96950,423450,Corporation,Unanswered,Unanswered,Unanswered,,1,04/30/2020,First Hawaiian Bank,MP - 00
+4180,SAIPAN,MP,96950,551114,Corporation,Unanswered,Unanswered,Unanswered,,,06/18/2020,Bank of Hawaii,MP - 00
+4020,SAIPAN,MP,96950,561520,Corporation,Unanswered,Unanswered,Unanswered,,,05/04/2020,Bank of Hawaii,MP - 00
+4000,SAIPAN,MP,96950,611699,Non-Profit Organization,Unanswered,Unanswered,Unanswered,Y,1,06/05/2020,First Hawaiian Bank,MP - 00
+3946.6,TINIAN,MP,96952,452319,Sole Proprietorship,Unanswered,Unanswered,Unanswered,,3,06/30/2020,Bank of Guam,MP - 00
+3908.97,SAIPAN,MP,96950,531210,Limited  Liability Company(LLC),Unanswered,Unanswered,Unanswered,,3,06/17/2020,Bank of Guam,MP - 00
+3857.5,SAIPAN,MP,96950,812310,Corporation,Unanswered,Unanswered,Unanswered,,3,04/28/2020,First Hawaiian Bank,MP - 00
+3750,SAIPAN,MP,96950,311991,Corporation,Unanswered,Unanswered,Unanswered,,1,06/15/2020,First Hawaiian Bank,MP - 00
+3750,SAIPAN,MP,96950,721199,Sole Proprietorship,Unanswered,Unanswered,Unanswered,,2,04/30/2020,First Hawaiian Bank,MP - 00
+3597.5,SAIPAN,MP,96950,453991,Limited  Liability Company(LLC),Unanswered,Unanswered,Unanswered,,2,04/28/2020,First Hawaiian Bank,MP - 00
+3500,SAIPAN,MP,96950,813110,Non-Profit Organization,Unanswered,Unanswered,Unanswered,Y,1,04/29/2020,First Hawaiian Bank,MP - 00
+3432.5,SAIPAN,MP,96950,713990,Corporation,Unanswered,Unanswered,Unanswered,,1,04/30/2020,First Hawaiian Bank,MP - 00
+3341,SAIPAN,MP,96950,541611,Limited  Liability Company(LLC),Unanswered,Unanswered,Unanswered,,1,06/12/2020,First Hawaiian Bank,MP - 00
+3305,SAIPAN,MP,96950,561740,Sole Proprietorship,Unanswered,Unanswered,Unanswered,,1,04/28/2020,First Hawaiian Bank,MP - 00
+3250,SAIPAN,MP,96950,453998,Corporation,Unanswered,Unanswered,Unanswered,,1,04/30/2020,First Hawaiian Bank,MP - 00
+3250,SAIPAN,MP,96950,722320,Corporation,Unanswered,Unanswered,Unanswered,,1,04/30/2020,First Hawaiian Bank,MP - 00
+3172,SAIPAN,MP,96950,561510,Limited  Liability Company(LLC),Unanswered,Unanswered,Unanswered,,,06/22/2020,Bank of Hawaii,MP - 00
+3035,SAIPAN,MP,96950,561410,Corporation,Unanswered,Unanswered,Unanswered,,1,04/30/2020,First Hawaiian Bank,MP - 00
+3033,SAIPAN,MP,96950,238210,Sole Proprietorship,Unanswered,Unanswered,Unanswered,,1,05/19/2020,First Hawaiian Bank,MP - 00
+3000,SAIPAN,MP,96950,813110,Non-Profit Organization,Unanswered,Unanswered,Unanswered,Y,1,04/29/2020,First Hawaiian Bank,MP - 00
+2625,SAIPAN,MP,96950,813110,Non-Profit Organization,Unanswered,Unanswered,Unanswered,Y,11,05/20/2020,First Hawaiian Bank,MP - 00
+2500,SAIPAN,MP,96950,424410,Corporation,Asian,Female Owned,Non-Veteran,,1,04/27/2020,Bank of Guam,MP - 00
+2500,SAIPAN,MP,96950,722511,Corporation,Unanswered,Unanswered,Unanswered,,3,04/30/2020,First Hawaiian Bank,MP - 00
+2500,SAIPAN,MP,96950,423390,Corporation,Unanswered,Unanswered,Unanswered,,1,04/30/2020,First Hawaiian Bank,MP - 00
+2500,SAIPAN,MP,96950,441310,Corporation,Unanswered,Unanswered,Unanswered,,1,06/17/2020,First Hawaiian Bank,MP - 00
+2296,SAIPAN,MP,96950,451211,Sole Proprietorship,Unanswered,Unanswered,Unanswered,,1,05/15/2020,First Hawaiian Bank,MP - 00
+2292,SAIPAN,MP,96950,561520,Limited  Liability Company(LLC),Unanswered,Male Owned,Unanswered,,,06/22/2020,Bank of Hawaii,MP - 00
+2250,SAIPAN,MP,96950,531311,Corporation,Unanswered,Unanswered,Unanswered,,1,04/30/2020,First Hawaiian Bank,MP - 00
+2190,SAIPAN,MP,96950,711120,Sole Proprietorship,Unanswered,Female Owned,Unanswered,,1,05/02/2020,First Hawaiian Bank,MP - 00
+1997.5,SAIPAN,MP,96950,811192,Corporation,Unanswered,Unanswered,Unanswered,,1,04/30/2020,First Hawaiian Bank,MP - 00
+1402.5,SAIPAN,MP,96950,721199,Corporation,Unanswered,Unanswered,Unanswered,,2,04/30/2020,First Hawaiian Bank,MP - 00
+1270,SAIPAN,MP,96950,451110,Corporation,Unanswered,Unanswered,Unanswered,,1,04/27/2020,Bank of Hawaii,MP - 00
+1250,SAIPAN,MP,96950,813110,Non-Profit Organization,Unanswered,Unanswered,Unanswered,Y,,06/29/2020,Bank of Hawaii,MP - 00
+802,SAIPAN,MP,96950,812199,Sole Proprietorship,Black or African American,Male Owned,Veteran,,,06/15/2020,Bank of Hawaii,MP - 00
