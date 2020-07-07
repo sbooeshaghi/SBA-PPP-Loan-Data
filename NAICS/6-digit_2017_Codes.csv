@@ -1,0 +1,1058 @@
+,2017 NAICS Code,2017 NAICS Title
+1,111110.0,Soybean Farming
+2,111120.0,Oilseed (except Soybean) Farming
+3,111130.0,Dry Pea and Bean Farming
+4,111140.0,Wheat Farming
+5,111150.0,Corn Farming
+6,111160.0,Rice Farming
+7,111191.0,Oilseed and Grain Combination Farming
+8,111199.0,All Other Grain Farming
+9,111211.0,Potato Farming
+10,111219.0,Other Vegetable (except Potato) and Melon Farming
+11,111310.0,Orange Groves
+12,111320.0,Citrus (except Orange) Groves
+13,111331.0,Apple Orchards
+14,111332.0,Grape Vineyards
+15,111333.0,Strawberry Farming
+16,111334.0,Berry (except Strawberry) Farming
+17,111335.0,Tree Nut Farming
+18,111336.0,Fruit and Tree Nut Combination Farming
+19,111339.0,Other Noncitrus Fruit Farming
+20,111411.0,Mushroom Production
+21,111419.0,Other Food Crops Grown Under Cover
+22,111421.0,Nursery and Tree Production
+23,111422.0,Floriculture Production
+24,111910.0,Tobacco Farming
+25,111920.0,Cotton Farming
+26,111930.0,Sugarcane Farming
+27,111940.0,Hay Farming
+28,111991.0,Sugar Beet Farming
+29,111992.0,Peanut Farming
+30,111998.0,All Other Miscellaneous Crop Farming
+31,112111.0,Beef Cattle Ranching and Farming
+32,112112.0,Cattle Feedlots
+33,112120.0,Dairy Cattle and Milk Production
+34,112130.0,Dual-Purpose Cattle Ranching and Farming
+35,112210.0,Hog and Pig Farming
+36,112310.0,Chicken Egg Production
+37,112320.0,Broilers and Other Meat Type Chicken Production
+38,112330.0,Turkey Production
+39,112340.0,Poultry Hatcheries
+40,112390.0,Other Poultry Production
+41,112410.0,Sheep Farming
+42,112420.0,Goat Farming
+43,112511.0,Finfish Farming and Fish Hatcheries
+44,112512.0,Shellfish Farming
+45,112519.0,Other Aquaculture
+46,112910.0,Apiculture
+47,112920.0,Horses and Other Equine Production
+48,112930.0,Fur-Bearing Animal and Rabbit Production
+49,112990.0,All Other Animal Production
+50,113110.0,Timber Tract Operations
+51,113210.0,Forest Nurseries and Gathering of Forest Products
+52,113310.0,Logging
+53,114111.0,Finfish Fishing
+54,114112.0,Shellfish Fishing
+55,114119.0,Other Marine Fishing
+56,114210.0,Hunting and Trapping
+57,115111.0,Cotton Ginning
+58,115112.0,"Soil Preparation, Planting, and Cultivating"
+59,115113.0,"Crop Harvesting, Primarily by Machine"
+60,115114.0,Postharvest Crop Activities (except Cotton Ginning)
+61,115115.0,Farm Labor Contractors and Crew Leaders
+62,115116.0,Farm Management Services
+63,115210.0,Support Activities for Animal Production
+64,115310.0,Support Activities for Forestry
+65,211120.0,Crude Petroleum Extraction
+66,211130.0,Natural Gas Extraction
+67,212111.0,Bituminous Coal and Lignite Surface Mining
+68,212112.0,Bituminous Coal Underground Mining
+69,212113.0,Anthracite Mining
+70,212210.0,Iron Ore Mining
+71,212221.0,Gold Ore Mining
+72,212222.0,Silver Ore Mining
+73,212230.0,"Copper, Nickel, Lead, and Zinc Mining"
+74,212291.0,Uranium-Radium-Vanadium Ore Mining
+75,212299.0,All Other Metal Ore Mining
+76,212311.0,Dimension Stone Mining and Quarrying
+77,212312.0,Crushed and Broken Limestone Mining and Quarrying
+78,212313.0,Crushed and Broken Granite Mining and Quarrying
+79,212319.0,Other Crushed and Broken Stone Mining and Quarrying
+80,212321.0,Construction Sand and Gravel Mining
+81,212322.0,Industrial Sand Mining
+82,212324.0,Kaolin and Ball Clay Mining
+83,212325.0,Clay and Ceramic and Refractory Minerals Mining
+84,212391.0,"Potash, Soda, and Borate Mineral Mining"
+85,212392.0,Phosphate Rock Mining
+86,212393.0,Other Chemical and Fertilizer Mineral Mining
+87,212399.0,All Other Nonmetallic Mineral Mining
+88,213111.0,Drilling Oil and Gas Wells
+89,213112.0,Support Activities for Oil and Gas Operations
+90,213113.0,Support Activities for Coal Mining
+91,213114.0,Support Activities for Metal Mining
+92,213115.0,Support Activities for Nonmetallic Minerals (except Fuels) Mining
+93,221111.0,Hydroelectric Power Generation
+94,221112.0,Fossil Fuel Electric Power Generation
+95,221113.0,Nuclear Electric Power Generation
+96,221114.0,Solar Electric Power Generation
+97,221115.0,Wind Electric Power Generation
+98,221116.0,Geothermal Electric Power Generation
+99,221117.0,Biomass Electric Power Generation
+100,221118.0,Other Electric Power Generation
+101,221121.0,Electric Bulk Power Transmission and Control
+102,221122.0,Electric Power Distribution
+103,221210.0,Natural Gas Distribution
+104,221310.0,Water Supply and Irrigation Systems
+105,221320.0,Sewage Treatment Facilities
+106,221330.0,Steam and Air-Conditioning Supply
+107,236115.0,New Single-Family Housing Construction (except For-Sale Builders)
+108,236116.0,New Multifamily Housing Construction (except For-Sale Builders)
+109,236117.0,New Housing For-Sale Builders
+110,236118.0,Residential Remodelers
+111,236210.0,Industrial Building Construction
+112,236220.0,Commercial and Institutional Building Construction
+113,237110.0,Water and Sewer Line and Related Structures Construction
+114,237120.0,Oil and Gas Pipeline and Related Structures Construction
+115,237130.0,Power and Communication Line and Related Structures Construction
+116,237210.0,Land Subdivision
+117,237310.0,"Highway, Street, and Bridge Construction"
+118,237990.0,Other Heavy and Civil Engineering Construction
+119,238110.0,Poured Concrete Foundation and Structure Contractors
+120,238120.0,Structural Steel and Precast Concrete Contractors
+121,238130.0,Framing Contractors
+122,238140.0,Masonry Contractors
+123,238150.0,Glass and Glazing Contractors
+124,238160.0,Roofing Contractors
+125,238170.0,Siding Contractors
+126,238190.0,"Other Foundation, Structure, and Building Exterior Contractors"
+127,238210.0,Electrical Contractors and Other Wiring Installation Contractors
+128,238220.0,"Plumbing, Heating, and Air-Conditioning Contractors"
+129,238290.0,Other Building Equipment Contractors
+130,238310.0,Drywall and Insulation Contractors
+131,238320.0,Painting and Wall Covering Contractors
+132,238330.0,Flooring Contractors
+133,238340.0,Tile and Terrazzo Contractors
+134,238350.0,Finish Carpentry Contractors
+135,238390.0,Other Building Finishing Contractors
+136,238910.0,Site Preparation Contractors
+137,238990.0,All Other Specialty Trade Contractors
+138,311111.0,Dog and Cat Food Manufacturing
+139,311119.0,Other Animal Food Manufacturing
+140,311211.0,Flour Milling
+141,311212.0,Rice Milling
+142,311213.0,Malt Manufacturing
+143,311221.0,Wet Corn Milling
+144,311224.0,Soybean and Other Oilseed Processing
+145,311225.0,Fats and Oils Refining and Blending
+146,311230.0,Breakfast Cereal Manufacturing
+147,311313.0,Beet Sugar Manufacturing
+148,311314.0,Cane Sugar Manufacturing
+149,311340.0,Nonchocolate Confectionery Manufacturing
+150,311351.0,Chocolate and Confectionery Manufacturing from Cacao Beans
+151,311352.0,Confectionery Manufacturing from Purchased Chocolate
+152,311411.0,"Frozen Fruit, Juice, and Vegetable Manufacturing"
+153,311412.0,Frozen Specialty Food Manufacturing
+154,311421.0,Fruit and Vegetable Canning
+155,311422.0,Specialty Canning
+156,311423.0,Dried and Dehydrated Food Manufacturing
+157,311511.0,Fluid Milk Manufacturing
+158,311512.0,Creamery Butter Manufacturing
+159,311513.0,Cheese Manufacturing
+160,311514.0,"Dry, Condensed, and Evaporated Dairy Product Manufacturing"
+161,311520.0,Ice Cream and Frozen Dessert Manufacturing
+162,311611.0,Animal (except Poultry) Slaughtering
+163,311612.0,Meat Processed from Carcasses
+164,311613.0,Rendering and Meat Byproduct Processing
+165,311615.0,Poultry Processing
+166,311710.0,Seafood Product Preparation and Packaging
+167,311811.0,Retail Bakeries
+168,311812.0,Commercial Bakeries
+169,311813.0,"Frozen Cakes, Pies, and Other Pastries Manufacturing"
+170,311821.0,Cookie and Cracker Manufacturing
+171,311824.0,"Dry Pasta, Dough, and Flour Mixes Manufacturing from Purchased Flour"
+172,311830.0,Tortilla Manufacturing
+173,311911.0,Roasted Nuts and Peanut Butter Manufacturing
+174,311919.0,Other Snack Food Manufacturing
+175,311920.0,Coffee and Tea Manufacturing
+176,311930.0,Flavoring Syrup and Concentrate Manufacturing
+177,311941.0,"Mayonnaise, Dressing, and Other Prepared Sauce Manufacturing"
+178,311942.0,Spice and Extract Manufacturing
+179,311991.0,Perishable Prepared Food Manufacturing
+180,311999.0,All Other Miscellaneous Food Manufacturing
+181,312111.0,Soft Drink Manufacturing
+182,312112.0,Bottled Water Manufacturing
+183,312113.0,Ice Manufacturing
+184,312120.0,Breweries
+185,312130.0,Wineries
+186,312140.0,Distilleries
+187,312230.0,Tobacco Manufacturing
+188,313110.0,"Fiber, Yarn, and Thread Mills"
+189,313210.0,Broadwoven Fabric Mills
+190,313220.0,Narrow Fabric Mills and Schiffli Machine Embroidery
+191,313230.0,Nonwoven Fabric Mills
+192,313240.0,Knit Fabric Mills
+193,313310.0,Textile and Fabric Finishing Mills
+194,313320.0,Fabric Coating Mills
+195,314110.0,Carpet and Rug Mills
+196,314120.0,Curtain and Linen Mills
+197,314910.0,Textile Bag and Canvas Mills
+198,314994.0,"Rope, Cordage, Twine, Tire Cord, and Tire Fabric Mills"
+199,314999.0,All Other Miscellaneous Textile Product Mills
+200,315110.0,Hosiery and Sock Mills
+201,315190.0,Other Apparel Knitting Mills
+202,315210.0,Cut and Sew Apparel Contractors
+203,315220.0,Men’s and Boys’ Cut and Sew Apparel Manufacturing
+204,315240.0,"Women’s, Girls’, and Infants’ Cut and Sew Apparel Manufacturing"
+205,315280.0,Other Cut and Sew Apparel Manufacturing
+206,315990.0,Apparel Accessories and Other Apparel Manufacturing
+207,316110.0,Leather and Hide Tanning and Finishing
+208,316210.0,Footwear Manufacturing
+209,316992.0,Women's Handbag and Purse Manufacturing
+210,316998.0,All Other Leather Good and Allied Product Manufacturing
+211,321113.0,Sawmills
+212,321114.0,Wood Preservation
+213,321211.0,Hardwood Veneer and Plywood Manufacturing
+214,321212.0,Softwood Veneer and Plywood Manufacturing
+215,321213.0,Engineered Wood Member (except Truss) Manufacturing
+216,321214.0,Truss Manufacturing
+217,321219.0,Reconstituted Wood Product Manufacturing
+218,321911.0,Wood Window and Door Manufacturing
+219,321912.0,"Cut Stock, Resawing Lumber, and Planing"
+220,321918.0,Other Millwork (including Flooring)
+221,321920.0,Wood Container and Pallet Manufacturing
+222,321991.0,Manufactured Home (Mobile Home) Manufacturing
+223,321992.0,Prefabricated Wood Building Manufacturing
+224,321999.0,All Other Miscellaneous Wood Product Manufacturing
+225,322110.0,Pulp Mills
+226,322121.0,Paper (except Newsprint) Mills
+227,322122.0,Newsprint Mills
+228,322130.0,Paperboard Mills
+229,322211.0,Corrugated and Solid Fiber Box Manufacturing
+230,322212.0,Folding Paperboard Box Manufacturing
+231,322219.0,Other Paperboard Container Manufacturing
+232,322220.0,Paper Bag and Coated and Treated Paper Manufacturing
+233,322230.0,Stationery Product Manufacturing
+234,322291.0,Sanitary Paper Product Manufacturing
+235,322299.0,All Other Converted Paper Product Manufacturing
+236,323111.0,Commercial Printing (except Screen and Books)
+237,323113.0,Commercial Screen Printing
+238,323117.0,Books Printing
+239,323120.0,Support Activities for Printing
+240,324110.0,Petroleum Refineries
+241,324121.0,Asphalt Paving Mixture and Block Manufacturing
+242,324122.0,Asphalt Shingle and Coating Materials Manufacturing
+243,324191.0,Petroleum Lubricating Oil and Grease Manufacturing
+244,324199.0,All Other Petroleum and Coal Products Manufacturing
+245,325110.0,Petrochemical Manufacturing
+246,325120.0,Industrial Gas Manufacturing
+247,325130.0,Synthetic Dye and Pigment Manufacturing
+248,325180.0,Other Basic Inorganic Chemical Manufacturing
+249,325193.0,Ethyl Alcohol Manufacturing
+250,325194.0,"Cyclic Crude, Intermediate, and Gum and Wood Chemical Manufacturing"
+251,325199.0,All Other Basic Organic Chemical Manufacturing
+252,325211.0,Plastics Material and Resin Manufacturing
+253,325212.0,Synthetic Rubber Manufacturing
+254,325220.0,Artificial and Synthetic Fibers and Filaments Manufacturing
+255,325311.0,Nitrogenous Fertilizer Manufacturing
+256,325312.0,Phosphatic Fertilizer Manufacturing
+257,325314.0,Fertilizer (Mixing Only) Manufacturing
+258,325320.0,Pesticide and Other Agricultural Chemical Manufacturing
+259,325411.0,Medicinal and Botanical Manufacturing
+260,325412.0,Pharmaceutical Preparation Manufacturing
+261,325413.0,In-Vitro Diagnostic Substance Manufacturing
+262,325414.0,Biological Product (except Diagnostic) Manufacturing
+263,325510.0,Paint and Coating Manufacturing
+264,325520.0,Adhesive Manufacturing
+265,325611.0,Soap and Other Detergent Manufacturing
+266,325612.0,Polish and Other Sanitation Good Manufacturing
+267,325613.0,Surface Active Agent Manufacturing
+268,325620.0,Toilet Preparation Manufacturing
+269,325910.0,Printing Ink Manufacturing
+270,325920.0,Explosives Manufacturing
+271,325991.0,Custom Compounding of Purchased Resins
+272,325992.0,"Photographic Film, Paper, Plate, and Chemical Manufacturing"
+273,325998.0,All Other Miscellaneous Chemical Product and Preparation Manufacturing
+274,326111.0,Plastics Bag and Pouch Manufacturing
+275,326112.0,Plastics Packaging Film and Sheet (including Laminated) Manufacturing
+276,326113.0,Unlaminated Plastics Film and Sheet (except Packaging) Manufacturing
+277,326121.0,Unlaminated Plastics Profile Shape Manufacturing
+278,326122.0,Plastics Pipe and Pipe Fitting Manufacturing
+279,326130.0,"Laminated Plastics Plate, Sheet (except Packaging), and Shape Manufacturing"
+280,326140.0,Polystyrene Foam Product Manufacturing
+281,326150.0,Urethane and Other Foam Product (except Polystyrene) Manufacturing
+282,326160.0,Plastics Bottle Manufacturing
+283,326191.0,Plastics Plumbing Fixture Manufacturing
+284,326199.0,All Other Plastics Product Manufacturing
+285,326211.0,Tire Manufacturing (except Retreading)
+286,326212.0,Tire Retreading
+287,326220.0,Rubber and Plastics Hoses and Belting Manufacturing
+288,326291.0,Rubber Product Manufacturing for Mechanical Use
+289,326299.0,All Other Rubber Product Manufacturing
+290,327110.0,"Pottery, Ceramics, and Plumbing Fixture Manufacturing"
+291,327120.0,Clay Building Material and Refractories Manufacturing
+292,327211.0,Flat Glass Manufacturing
+293,327212.0,Other Pressed and Blown Glass and Glassware Manufacturing
+294,327213.0,Glass Container Manufacturing
+295,327215.0,Glass Product Manufacturing Made of Purchased Glass
+296,327310.0,Cement Manufacturing
+297,327320.0,Ready-Mix Concrete Manufacturing
+298,327331.0,Concrete Block and Brick Manufacturing
+299,327332.0,Concrete Pipe Manufacturing
+300,327390.0,Other Concrete Product Manufacturing
+301,327410.0,Lime Manufacturing
+302,327420.0,Gypsum Product Manufacturing
+303,327910.0,Abrasive Product Manufacturing
+304,327991.0,Cut Stone and Stone Product Manufacturing
+305,327992.0,Ground or Treated Mineral and Earth Manufacturing
+306,327993.0,Mineral Wool Manufacturing
+307,327999.0,All Other Miscellaneous Nonmetallic Mineral Product Manufacturing
+308,331110.0,Iron and Steel Mills and Ferroalloy Manufacturing
+309,331210.0,Iron and Steel Pipe and Tube Manufacturing from Purchased Steel
+310,331221.0,Rolled Steel Shape Manufacturing
+311,331222.0,Steel Wire Drawing
+312,331313.0,Alumina Refining and Primary Aluminum Production
+313,331314.0,Secondary Smelting and Alloying of Aluminum
+314,331315.0,"Aluminum Sheet, Plate, and Foil Manufacturing"
+315,331318.0,"Other Aluminum Rolling, Drawing, and Extruding"
+316,331410.0,Nonferrous Metal (except Aluminum) Smelting and Refining
+317,331420.0,"Copper Rolling, Drawing, Extruding, and Alloying"
+318,331491.0,"Nonferrous Metal (except Copper and Aluminum) Rolling, Drawing, and Extruding"
+319,331492.0,"Secondary Smelting, Refining, and Alloying of Nonferrous Metal (except Copper and Aluminum)"
+320,331511.0,Iron Foundries
+321,331512.0,Steel Investment Foundries
+322,331513.0,Steel Foundries (except Investment)
+323,331523.0,Nonferrous Metal Die-Casting Foundries
+324,331524.0,Aluminum Foundries (except Die-Casting)
+325,331529.0,Other Nonferrous Metal Foundries (except Die-Casting)
+326,332111.0,Iron and Steel Forging
+327,332112.0,Nonferrous Forging
+328,332114.0,Custom Roll Forming
+329,332117.0,Powder Metallurgy Part Manufacturing
+330,332119.0,"Metal Crown, Closure, and Other Metal Stamping (except Automotive)"
+331,332215.0,"Metal Kitchen Cookware, Utensil, Cutlery, and Flatware (except Precious) Manufacturing"
+332,332216.0,Saw Blade and Handtool Manufacturing
+333,332311.0,Prefabricated Metal Building and Component Manufacturing
+334,332312.0,Fabricated Structural Metal Manufacturing
+335,332313.0,Plate Work Manufacturing
+336,332321.0,Metal Window and Door Manufacturing
+337,332322.0,Sheet Metal Work Manufacturing
+338,332323.0,Ornamental and Architectural Metal Work Manufacturing
+339,332410.0,Power Boiler and Heat Exchanger Manufacturing
+340,332420.0,Metal Tank (Heavy Gauge) Manufacturing
+341,332431.0,Metal Can Manufacturing
+342,332439.0,Other Metal Container Manufacturing
+343,332510.0,Hardware Manufacturing
+344,332613.0,Spring Manufacturing
+345,332618.0,Other Fabricated Wire Product Manufacturing
+346,332710.0,Machine Shops
+347,332721.0,Precision Turned Product Manufacturing
+348,332722.0,"Bolt, Nut, Screw, Rivet, and Washer Manufacturing"
+349,332811.0,Metal Heat Treating
+350,332812.0,"Metal Coating, Engraving (except Jewelry and Silverware), and Allied Services to Manufacturers"
+351,332813.0,"Electroplating, Plating, Polishing, Anodizing, and Coloring"
+352,332911.0,Industrial Valve Manufacturing
+353,332912.0,Fluid Power Valve and Hose Fitting Manufacturing
+354,332913.0,Plumbing Fixture Fitting and Trim Manufacturing
+355,332919.0,Other Metal Valve and Pipe Fitting Manufacturing
+356,332991.0,Ball and Roller Bearing Manufacturing
+357,332992.0,Small Arms Ammunition Manufacturing
+358,332993.0,Ammunition (except Small Arms) Manufacturing
+359,332994.0,"Small Arms, Ordnance, and Ordnance Accessories Manufacturing"
+360,332996.0,Fabricated Pipe and Pipe Fitting Manufacturing
+361,332999.0,All Other Miscellaneous Fabricated Metal Product Manufacturing
+362,333111.0,Farm Machinery and Equipment Manufacturing
+363,333112.0,Lawn and Garden Tractor and Home Lawn and Garden Equipment Manufacturing
+364,333120.0,Construction Machinery Manufacturing
+365,333131.0,Mining Machinery and Equipment Manufacturing
+366,333132.0,Oil and Gas Field Machinery and Equipment Manufacturing
+367,333241.0,Food Product Machinery Manufacturing
+368,333242.0,Semiconductor Machinery Manufacturing
+369,333243.0,"Sawmill, Woodworking, and Paper Machinery Manufacturing"
+370,333244.0,Printing Machinery and Equipment Manufacturing
+371,333249.0,Other Industrial Machinery Manufacturing
+372,333314.0,Optical Instrument and Lens Manufacturing
+373,333316.0,Photographic and Photocopying Equipment Manufacturing
+374,333318.0,Other Commercial and Service Industry Machinery Manufacturing
+375,333413.0,Industrial and Commercial Fan and Blower and Air Purification Equipment Manufacturing
+376,333414.0,Heating Equipment (except Warm Air Furnaces) Manufacturing
+377,333415.0,Air-Conditioning and Warm Air Heating Equipment and Commercial and Industrial Refrigeration Equipment Manufacturing
+378,333511.0,Industrial Mold Manufacturing
+379,333514.0,"Special Die and Tool, Die Set, Jig, and Fixture Manufacturing"
+380,333515.0,Cutting Tool and Machine Tool Accessory Manufacturing
+381,333517.0,Machine Tool Manufacturing
+382,333519.0,Rolling Mill and Other Metalworking Machinery Manufacturing
+383,333611.0,Turbine and Turbine Generator Set Units Manufacturing
+384,333612.0,"Speed Changer, Industrial High-Speed Drive, and Gear Manufacturing"
+385,333613.0,Mechanical Power Transmission Equipment Manufacturing
+386,333618.0,Other Engine Equipment Manufacturing
+387,333912.0,Air and Gas Compressor Manufacturing
+388,333914.0,"Measuring, Dispensing, and Other Pumping Equipment Manufacturing"
+389,333921.0,Elevator and Moving Stairway Manufacturing
+390,333922.0,Conveyor and Conveying Equipment Manufacturing
+391,333923.0,"Overhead Traveling Crane, Hoist, and Monorail System Manufacturing"
+392,333924.0,"Industrial Truck, Tractor, Trailer, and Stacker Machinery Manufacturing"
+393,333991.0,Power-Driven Handtool Manufacturing
+394,333992.0,Welding and Soldering Equipment Manufacturing
+395,333993.0,Packaging Machinery Manufacturing
+396,333994.0,Industrial Process Furnace and Oven Manufacturing
+397,333995.0,Fluid Power Cylinder and Actuator Manufacturing
+398,333996.0,Fluid Power Pump and Motor Manufacturing
+399,333997.0,Scale and Balance Manufacturing
+400,333999.0,All Other Miscellaneous General Purpose Machinery Manufacturing
+401,334111.0,Electronic Computer Manufacturing
+402,334112.0,Computer Storage Device Manufacturing
+403,334118.0,Computer Terminal and Other Computer Peripheral Equipment Manufacturing
+404,334210.0,Telephone Apparatus Manufacturing
+405,334220.0,Radio and Television Broadcasting and Wireless Communications Equipment Manufacturing
+406,334290.0,Other Communications Equipment Manufacturing
+407,334310.0,Audio and Video Equipment Manufacturing
+408,334412.0,Bare Printed Circuit Board Manufacturing
+409,334413.0,Semiconductor and Related Device Manufacturing
+410,334416.0,"Capacitor, Resistor, Coil, Transformer, and Other Inductor Manufacturing"
+411,334417.0,Electronic Connector Manufacturing
+412,334418.0,Printed Circuit Assembly (Electronic Assembly) Manufacturing
+413,334419.0,Other Electronic Component Manufacturing
+414,334510.0,Electromedical and Electrotherapeutic Apparatus Manufacturing
+415,334511.0,"Search, Detection, Navigation, Guidance, Aeronautical, and Nautical System and Instrument Manufacturing"
+416,334512.0,"Automatic Environmental Control Manufacturing for Residential, Commercial, and Appliance Use"
+417,334513.0,"Instruments and Related Products Manufacturing for Measuring, Displaying, and Controlling Industrial Process Variables"
+418,334514.0,Totalizing Fluid Meter and Counting Device Manufacturing
+419,334515.0,Instrument Manufacturing for Measuring and Testing Electricity and Electrical Signals
+420,334516.0,Analytical Laboratory Instrument Manufacturing
+421,334517.0,Irradiation Apparatus Manufacturing
+422,334519.0,Other Measuring and Controlling Device Manufacturing
+423,334613.0,Blank Magnetic and Optical Recording Media Manufacturing
+424,334614.0,"Software and Other Prerecorded Compact Disc, Tape, and Record Reproducing"
+425,335110.0,Electric Lamp Bulb and Part Manufacturing
+426,335121.0,Residential Electric Lighting Fixture Manufacturing
+427,335122.0,"Commercial, Industrial, and Institutional Electric Lighting Fixture Manufacturing"
+428,335129.0,Other Lighting Equipment Manufacturing
+429,335210.0,Small Electrical Appliance Manufacturing
+430,335220.0,Major Household Appliance Manufacturing
+431,335311.0,"Power, Distribution, and Specialty Transformer Manufacturing"
+432,335312.0,Motor and Generator Manufacturing
+433,335313.0,Switchgear and Switchboard Apparatus Manufacturing
+434,335314.0,Relay and Industrial Control Manufacturing
+435,335911.0,Storage Battery Manufacturing
+436,335912.0,Primary Battery Manufacturing
+437,335921.0,Fiber Optic Cable Manufacturing
+438,335929.0,Other Communication and Energy Wire Manufacturing
+439,335931.0,Current-Carrying Wiring Device Manufacturing
+440,335932.0,Noncurrent-Carrying Wiring Device Manufacturing
+441,335991.0,Carbon and Graphite Product Manufacturing
+442,335999.0,All Other Miscellaneous Electrical Equipment and Component Manufacturing
+443,336111.0,Automobile Manufacturing
+444,336112.0,Light Truck and Utility Vehicle Manufacturing
+445,336120.0,Heavy Duty Truck Manufacturing
+446,336211.0,Motor Vehicle Body Manufacturing
+447,336212.0,Truck Trailer Manufacturing
+448,336213.0,Motor Home Manufacturing
+449,336214.0,Travel Trailer and Camper Manufacturing
+450,336310.0,Motor Vehicle Gasoline Engine and Engine Parts Manufacturing
+451,336320.0,Motor Vehicle Electrical and Electronic Equipment Manufacturing
+452,336330.0,Motor Vehicle Steering and Suspension Components (except Spring) Manufacturing
+453,336340.0,Motor Vehicle Brake System Manufacturing
+454,336350.0,Motor Vehicle Transmission and Power Train Parts Manufacturing
+455,336360.0,Motor Vehicle Seating and Interior Trim Manufacturing
+456,336370.0,Motor Vehicle Metal Stamping
+457,336390.0,Other Motor Vehicle Parts Manufacturing
+458,336411.0,Aircraft Manufacturing
+459,336412.0,Aircraft Engine and Engine Parts Manufacturing
+460,336413.0,Other Aircraft Parts and Auxiliary Equipment Manufacturing
+461,336414.0,Guided Missile and Space Vehicle Manufacturing
+462,336415.0,Guided Missile and Space Vehicle Propulsion Unit and Propulsion Unit Parts Manufacturing
+463,336419.0,Other Guided Missile and Space Vehicle Parts and Auxiliary Equipment Manufacturing
+464,336510.0,Railroad Rolling Stock Manufacturing
+465,336611.0,Ship Building and Repairing
+466,336612.0,Boat Building
+467,336991.0,"Motorcycle, Bicycle, and Parts Manufacturing"
+468,336992.0,"Military Armored Vehicle, Tank, and Tank Component Manufacturing"
+469,336999.0,All Other Transportation Equipment Manufacturing
+470,337110.0,Wood Kitchen Cabinet and Countertop Manufacturing
+471,337121.0,Upholstered Household Furniture Manufacturing
+472,337122.0,Nonupholstered Wood Household Furniture Manufacturing
+473,337124.0,Metal Household Furniture Manufacturing
+474,337125.0,Household Furniture (except Wood and Metal) Manufacturing
+475,337127.0,Institutional Furniture Manufacturing
+476,337211.0,Wood Office Furniture Manufacturing
+477,337212.0,Custom Architectural Woodwork and Millwork Manufacturing
+478,337214.0,Office Furniture (except Wood) Manufacturing
+479,337215.0,"Showcase, Partition, Shelving, and Locker Manufacturing"
+480,337910.0,Mattress Manufacturing
+481,337920.0,Blind and Shade Manufacturing
+482,339112.0,Surgical and Medical Instrument Manufacturing
+483,339113.0,Surgical Appliance and Supplies Manufacturing
+484,339114.0,Dental Equipment and Supplies Manufacturing
+485,339115.0,Ophthalmic Goods Manufacturing
+486,339116.0,Dental Laboratories
+487,339910.0,Jewelry and Silverware Manufacturing
+488,339920.0,Sporting and Athletic Goods Manufacturing
+489,339930.0,"Doll, Toy, and Game Manufacturing"
+490,339940.0,Office Supplies (except Paper) Manufacturing
+491,339950.0,Sign Manufacturing
+492,339991.0,"Gasket, Packing, and Sealing Device Manufacturing"
+493,339992.0,Musical Instrument Manufacturing
+494,339993.0,"Fastener, Button, Needle, and Pin Manufacturing"
+495,339994.0,"Broom, Brush, and Mop Manufacturing"
+496,339995.0,Burial Casket Manufacturing
+497,339999.0,All Other Miscellaneous Manufacturing
+498,423110.0,Automobile and Other Motor Vehicle Merchant Wholesalers
+499,423120.0,Motor Vehicle Supplies and New Parts Merchant Wholesalers
+500,423130.0,Tire and Tube Merchant Wholesalers
+501,423140.0,Motor Vehicle Parts (Used) Merchant Wholesalers
+502,423210.0,Furniture Merchant Wholesalers
+503,423220.0,Home Furnishing Merchant Wholesalers
+504,423310.0,"Lumber, Plywood, Millwork, and Wood Panel Merchant Wholesalers"
+505,423320.0,"Brick, Stone, and Related Construction Material Merchant Wholesalers"
+506,423330.0,"Roofing, Siding, and Insulation Material Merchant Wholesalers"
+507,423390.0,Other Construction Material Merchant Wholesalers
+508,423410.0,Photographic Equipment and Supplies Merchant Wholesalers
+509,423420.0,Office Equipment Merchant Wholesalers
+510,423430.0,Computer and Computer Peripheral Equipment and Software Merchant Wholesalers
+511,423440.0,Other Commercial Equipment Merchant Wholesalers
+512,423450.0,"Medical, Dental, and Hospital Equipment and Supplies Merchant Wholesalers"
+513,423460.0,Ophthalmic Goods Merchant Wholesalers
+514,423490.0,Other Professional Equipment and Supplies Merchant Wholesalers
+515,423510.0,Metal Service Centers and Other Metal Merchant Wholesalers
+516,423520.0,Coal and Other Mineral and Ore Merchant Wholesalers
+517,423610.0,"Electrical Apparatus and Equipment, Wiring Supplies, and Related Equipment Merchant Wholesalers"
+518,423620.0,"Household Appliances, Electric Housewares, and Consumer Electronics Merchant Wholesalers"
+519,423690.0,Other Electronic Parts and Equipment Merchant Wholesalers
+520,423710.0,Hardware Merchant Wholesalers
+521,423720.0,Plumbing and Heating Equipment and Supplies (Hydronics) Merchant Wholesalers
+522,423730.0,Warm Air Heating and Air-Conditioning Equipment and Supplies Merchant Wholesalers
+523,423740.0,Refrigeration Equipment and Supplies Merchant Wholesalers
+524,423810.0,Construction and Mining (except Oil Well) Machinery and Equipment Merchant Wholesalers
+525,423820.0,Farm and Garden Machinery and Equipment Merchant Wholesalers
+526,423830.0,Industrial Machinery and Equipment Merchant Wholesalers
+527,423840.0,Industrial Supplies Merchant Wholesalers
+528,423850.0,Service Establishment Equipment and Supplies Merchant Wholesalers
+529,423860.0,Transportation Equipment and Supplies (except Motor Vehicle) Merchant Wholesalers
+530,423910.0,Sporting and Recreational Goods and Supplies Merchant Wholesalers
+531,423920.0,Toy and Hobby Goods and Supplies Merchant Wholesalers
+532,423930.0,Recyclable Material Merchant Wholesalers
+533,423940.0,"Jewelry, Watch, Precious Stone, and Precious Metal Merchant Wholesalers"
+534,423990.0,Other Miscellaneous Durable Goods Merchant Wholesalers
+535,424110.0,Printing and Writing Paper Merchant Wholesalers
+536,424120.0,Stationery and Office Supplies Merchant Wholesalers
+537,424130.0,Industrial and Personal Service Paper Merchant Wholesalers
+538,424210.0,Drugs and Druggists' Sundries Merchant Wholesalers
+539,424310.0,"Piece Goods, Notions, and Other Dry Goods Merchant Wholesalers"
+540,424320.0,Men's and Boys' Clothing and Furnishings Merchant Wholesalers
+541,424330.0,"Women's, Children's, and Infants' Clothing and Accessories Merchant Wholesalers"
+542,424340.0,Footwear Merchant Wholesalers
+543,424410.0,General Line Grocery Merchant Wholesalers
+544,424420.0,Packaged Frozen Food Merchant Wholesalers
+545,424430.0,Dairy Product (except Dried or Canned) Merchant Wholesalers
+546,424440.0,Poultry and Poultry Product Merchant Wholesalers
+547,424450.0,Confectionery Merchant Wholesalers
+548,424460.0,Fish and Seafood Merchant Wholesalers
+549,424470.0,Meat and Meat Product Merchant Wholesalers
+550,424480.0,Fresh Fruit and Vegetable Merchant Wholesalers
+551,424490.0,Other Grocery and Related Products Merchant Wholesalers
+552,424510.0,Grain and Field Bean Merchant Wholesalers
+553,424520.0,Livestock Merchant Wholesalers
+554,424590.0,Other Farm Product Raw Material Merchant Wholesalers
+555,424610.0,Plastics Materials and Basic Forms and Shapes Merchant Wholesalers
+556,424690.0,Other Chemical and Allied Products Merchant Wholesalers
+557,424710.0,Petroleum Bulk Stations and Terminals
+558,424720.0,Petroleum and Petroleum Products Merchant Wholesalers (except Bulk Stations and Terminals)
+559,424810.0,Beer and Ale Merchant Wholesalers
+560,424820.0,Wine and Distilled Alcoholic Beverage Merchant Wholesalers
+561,424910.0,Farm Supplies Merchant Wholesalers
+562,424920.0,"Book, Periodical, and Newspaper Merchant Wholesalers"
+563,424930.0,"Flower, Nursery Stock, and Florists' Supplies Merchant Wholesalers"
+564,424940.0,Tobacco and Tobacco Product Merchant Wholesalers
+565,424950.0,"Paint, Varnish, and Supplies Merchant Wholesalers"
+566,424990.0,Other Miscellaneous Nondurable Goods Merchant Wholesalers
+567,425110.0,Business to Business Electronic Markets
+568,425120.0,Wholesale Trade Agents and Brokers
+569,441110.0,New Car Dealers
+570,441120.0,Used Car Dealers
+571,441210.0,Recreational Vehicle Dealers
+572,441222.0,Boat Dealers
+573,441228.0,"Motorcycle, ATV, and All Other Motor Vehicle Dealers"
+574,441310.0,Automotive Parts and Accessories Stores
+575,441320.0,Tire Dealers
+576,442110.0,Furniture Stores
+577,442210.0,Floor Covering Stores
+578,442291.0,Window Treatment Stores
+579,442299.0,All Other Home Furnishings Stores
+580,443141.0,Household Appliance Stores
+581,443142.0,Electronics Stores
+582,444110.0,Home Centers
+583,444120.0,Paint and Wallpaper Stores
+584,444130.0,Hardware Stores
+585,444190.0,Other Building Material Dealers
+586,444210.0,Outdoor Power Equipment Stores
+587,444220.0,"Nursery, Garden Center, and Farm Supply Stores"
+588,445110.0,Supermarkets and Other Grocery (except Convenience) Stores
+589,445120.0,Convenience Stores
+590,445210.0,Meat Markets
+591,445220.0,Fish and Seafood Markets
+592,445230.0,Fruit and Vegetable Markets
+593,445291.0,Baked Goods Stores
+594,445292.0,Confectionery and Nut Stores
+595,445299.0,All Other Specialty Food Stores
+596,445310.0,"Beer, Wine, and Liquor Stores"
+597,446110.0,Pharmacies and Drug Stores
+598,446120.0,"Cosmetics, Beauty Supplies, and Perfume Stores"
+599,446130.0,Optical Goods Stores
+600,446191.0,Food (Health) Supplement Stores
+601,446199.0,All Other Health and Personal Care Stores
+602,447110.0,Gasoline Stations with Convenience Stores
+603,447190.0,Other Gasoline Stations
+604,448110.0,Men's Clothing Stores
+605,448120.0,Women's Clothing Stores
+606,448130.0,Children's and Infants' Clothing Stores
+607,448140.0,Family Clothing Stores
+608,448150.0,Clothing Accessories Stores
+609,448190.0,Other Clothing Stores
+610,448210.0,Shoe Stores
+611,448310.0,Jewelry Stores
+612,448320.0,Luggage and Leather Goods Stores
+613,451110.0,Sporting Goods Stores
+614,451120.0,"Hobby, Toy, and Game Stores"
+615,451130.0,"Sewing, Needlework, and Piece Goods Stores"
+616,451140.0,Musical Instrument and Supplies Stores
+617,451211.0,Book Stores
+618,451212.0,News Dealers and Newsstands
+619,452210.0,Department Stores
+620,452311.0,Warehouse Clubs and Supercenters
+621,452319.0,All Other General Merchandise Stores
+622,453110.0,Florists
+623,453210.0,Office Supplies and Stationery Stores
+624,453220.0,"Gift, Novelty, and Souvenir Stores"
+625,453310.0,Used Merchandise Stores
+626,453910.0,Pet and Pet Supplies Stores
+627,453920.0,Art Dealers
+628,453930.0,Manufactured (Mobile) Home Dealers
+629,453991.0,Tobacco Stores
+630,453998.0,All Other Miscellaneous Store Retailers (except Tobacco Stores)
+631,454110.0,Electronic Shopping and Mail-Order Houses
+632,454210.0,Vending Machine Operators
+633,454310.0,Fuel Dealers
+634,454390.0,Other Direct Selling Establishments
+635,481111.0,Scheduled Passenger Air Transportation
+636,481112.0,Scheduled Freight Air Transportation
+637,481211.0,Nonscheduled Chartered Passenger Air Transportation
+638,481212.0,Nonscheduled Chartered Freight Air Transportation
+639,481219.0,Other Nonscheduled Air Transportation
+640,482111.0,Line-Haul Railroads
+641,482112.0,Short Line Railroads
+642,483111.0,Deep Sea Freight Transportation
+643,483112.0,Deep Sea Passenger Transportation
+644,483113.0,Coastal and Great Lakes Freight Transportation
+645,483114.0,Coastal and Great Lakes Passenger Transportation
+646,483211.0,Inland Water Freight Transportation
+647,483212.0,Inland Water Passenger Transportation
+648,484110.0,"General Freight Trucking, Local"
+649,484121.0,"General Freight Trucking, Long-Distance, Truckload"
+650,484122.0,"General Freight Trucking, Long-Distance, Less Than Truckload"
+651,484210.0,Used Household and Office Goods Moving
+652,484220.0,"Specialized Freight (except Used Goods) Trucking, Local"
+653,484230.0,"Specialized Freight (except Used Goods) Trucking, Long-Distance"
+654,485111.0,Mixed Mode Transit Systems
+655,485112.0,Commuter Rail Systems
+656,485113.0,Bus and Other Motor Vehicle Transit Systems
+657,485119.0,Other Urban Transit Systems
+658,485210.0,Interurban and Rural Bus Transportation
+659,485310.0,Taxi Service
+660,485320.0,Limousine Service
+661,485410.0,School and Employee Bus Transportation
+662,485510.0,Charter Bus Industry
+663,485991.0,Special Needs Transportation
+664,485999.0,All Other Transit and Ground Passenger Transportation
+665,486110.0,Pipeline Transportation of Crude Oil
+666,486210.0,Pipeline Transportation of Natural Gas
+667,486910.0,Pipeline Transportation of Refined Petroleum Products
+668,486990.0,All Other Pipeline Transportation
+669,487110.0,"Scenic and Sightseeing Transportation, Land"
+670,487210.0,"Scenic and Sightseeing Transportation, Water"
+671,487990.0,"Scenic and Sightseeing Transportation, Other"
+672,488111.0,Air Traffic Control
+673,488119.0,Other Airport Operations
+674,488190.0,Other Support Activities for Air Transportation
+675,488210.0,Support Activities for Rail Transportation
+676,488310.0,Port and Harbor Operations
+677,488320.0,Marine Cargo Handling
+678,488330.0,Navigational Services to Shipping
+679,488390.0,Other Support Activities for Water Transportation
+680,488410.0,Motor Vehicle Towing
+681,488490.0,Other Support Activities for Road Transportation
+682,488510.0,Freight Transportation Arrangement
+683,488991.0,Packing and Crating
+684,488999.0,All Other Support Activities for Transportation
+685,491110.0,Postal Service
+686,492110.0,Couriers and Express Delivery Services
+687,492210.0,Local Messengers and Local Delivery
+688,493110.0,General Warehousing and Storage
+689,493120.0,Refrigerated Warehousing and Storage
+690,493130.0,Farm Product Warehousing and Storage
+691,493190.0,Other Warehousing and Storage
+692,511110.0,Newspaper Publishers
+693,511120.0,Periodical Publishers
+694,511130.0,Book Publishers
+695,511140.0,Directory and Mailing List Publishers
+696,511191.0,Greeting Card Publishers
+697,511199.0,All Other Publishers
+698,511210.0,Software Publishers
+699,512110.0,Motion Picture and Video Production
+700,512120.0,Motion Picture and Video Distribution
+701,512131.0,Motion Picture Theaters (except Drive-Ins)
+702,512132.0,Drive-In Motion Picture Theaters
+703,512191.0,Teleproduction and Other Postproduction Services
+704,512199.0,Other Motion Picture and Video Industries
+705,512230.0,Music Publishers
+706,512240.0,Sound Recording Studios
+707,512250.0,Record Production and Distribution
+708,512290.0,Other Sound Recording Industries
+709,515111.0,Radio Networks
+710,515112.0,Radio Stations
+711,515120.0,Television Broadcasting
+712,515210.0,Cable and Other Subscription Programming
+713,517311.0,Wired Telecommunications Carriers
+714,517312.0,Wireless Telecommunications Carriers (except Satellite)
+715,517410.0,Satellite Telecommunications
+716,517911.0,Telecommunications Resellers
+717,517919.0,All Other Telecommunications
+718,518210.0,"Data Processing, Hosting, and Related Services"
+719,519110.0,News Syndicates
+720,519120.0,Libraries and Archives
+721,519130.0,Internet Publishing and Broadcasting and Web Search Portals
+722,519190.0,All Other Information Services
+723,521110.0,Monetary Authorities-Central Bank
+724,522110.0,Commercial Banking
+725,522120.0,Savings Institutions
+726,522130.0,Credit Unions
+727,522190.0,Other Depository Credit Intermediation
+728,522210.0,Credit Card Issuing
+729,522220.0,Sales Financing
+730,522291.0,Consumer Lending
+731,522292.0,Real Estate Credit
+732,522293.0,International Trade Financing
+733,522294.0,Secondary Market Financing
+734,522298.0,All Other Nondepository Credit Intermediation
+735,522310.0,Mortgage and Nonmortgage Loan Brokers
+736,522320.0,"Financial Transactions Processing, Reserve, and Clearinghouse Activities"
+737,522390.0,Other Activities Related to Credit Intermediation
+738,523110.0,Investment Banking and Securities Dealing
+739,523120.0,Securities Brokerage
+740,523130.0,Commodity Contracts Dealing
+741,523140.0,Commodity Contracts Brokerage
+742,523210.0,Securities and Commodity Exchanges
+743,523910.0,Miscellaneous Intermediation
+744,523920.0,Portfolio Management
+745,523930.0,Investment Advice
+746,523991.0,"Trust, Fiduciary, and Custody Activities"
+747,523999.0,Miscellaneous Financial Investment Activities
+748,524113.0,Direct Life Insurance Carriers
+749,524114.0,Direct Health and Medical Insurance Carriers
+750,524126.0,Direct Property and Casualty Insurance Carriers
+751,524127.0,Direct Title Insurance Carriers
+752,524128.0,"Other Direct Insurance (except Life, Health, and Medical) Carriers"
+753,524130.0,Reinsurance Carriers
+754,524210.0,Insurance Agencies and Brokerages
+755,524291.0,Claims Adjusting
+756,524292.0,Third Party Administration of Insurance and Pension Funds
+757,524298.0,All Other Insurance Related Activities
+758,525110.0,Pension Funds
+759,525120.0,Health and Welfare Funds
+760,525190.0,Other Insurance Funds
+761,525910.0,Open-End Investment Funds
+762,525920.0,"Trusts, Estates, and Agency Accounts"
+763,525990.0,Other Financial Vehicles
+764,531110.0,Lessors of Residential Buildings and Dwellings
+765,531120.0,Lessors of Nonresidential Buildings (except Miniwarehouses)
+766,531130.0,Lessors of Miniwarehouses and Self-Storage Units
+767,531190.0,Lessors of Other Real Estate Property
+768,531210.0,Offices of Real Estate Agents and Brokers
+769,531311.0,Residential Property Managers
+770,531312.0,Nonresidential Property Managers
+771,531320.0,Offices of Real Estate Appraisers
+772,531390.0,Other Activities Related to Real Estate
+773,532111.0,Passenger Car Rental
+774,532112.0,Passenger Car Leasing
+775,532120.0,"Truck, Utility Trailer, and RV (Recreational Vehicle) Rental and Leasing"
+776,532210.0,Consumer Electronics and Appliances Rental
+777,532281.0,Formal Wear and Costume Rental
+778,532282.0,Video Tape and Disc Rental
+779,532283.0,Home Health Equipment Rental
+780,532284.0,Recreational Goods Rental
+781,532289.0,All Other Consumer Goods Rental
+782,532310.0,General Rental Centers
+783,532411.0,"Commercial Air, Rail, and Water Transportation Equipment Rental and Leasing"
+784,532412.0,"Construction, Mining, and Forestry Machinery and Equipment Rental and Leasing"
+785,532420.0,Office Machinery and Equipment Rental and Leasing
+786,532490.0,Other Commercial and Industrial Machinery and Equipment Rental and Leasing
+787,533110.0,Lessors of Nonfinancial Intangible Assets (except Copyrighted Works)
+788,541110.0,Offices of Lawyers
+789,541120.0,Offices of Notaries
+790,541191.0,Title Abstract and Settlement Offices
+791,541199.0,All Other Legal Services
+792,541211.0,Offices of Certified Public Accountants
+793,541213.0,Tax Preparation Services
+794,541214.0,Payroll Services
+795,541219.0,Other Accounting Services
+796,541310.0,Architectural Services
+797,541320.0,Landscape Architectural Services
+798,541330.0,Engineering Services
+799,541340.0,Drafting Services
+800,541350.0,Building Inspection Services
+801,541360.0,Geophysical Surveying and Mapping Services
+802,541370.0,Surveying and Mapping (except Geophysical) Services
+803,541380.0,Testing Laboratories
+804,541410.0,Interior Design Services
+805,541420.0,Industrial Design Services
+806,541430.0,Graphic Design Services
+807,541490.0,Other Specialized Design Services
+808,541511.0,Custom Computer Programming Services
+809,541512.0,Computer Systems Design Services
+810,541513.0,Computer Facilities Management Services
+811,541519.0,Other Computer Related Services
+812,541611.0,Administrative Management and General Management Consulting Services
+813,541612.0,Human Resources Consulting Services
+814,541613.0,Marketing Consulting Services
+815,541614.0,"Process, Physical Distribution, and Logistics Consulting Services"
+816,541618.0,Other Management Consulting Services
+817,541620.0,Environmental Consulting Services
+818,541690.0,Other Scientific and Technical Consulting Services
+819,541713.0,Research and Development in Nanotechnology
+820,541714.0,Research and Development in Biotechnology (except Nanobiotechnology)
+821,541715.0,"Research and Development in the Physical, Engineering, and Life Sciences (except Nanotechnology and Biotechnology)"
+822,541720.0,Research and Development in the Social Sciences and Humanities
+823,541810.0,Advertising Agencies
+824,541820.0,Public Relations Agencies
+825,541830.0,Media Buying Agencies
+826,541840.0,Media Representatives
+827,541850.0,Outdoor Advertising
+828,541860.0,Direct Mail Advertising
+829,541870.0,Advertising Material Distribution Services
+830,541890.0,Other Services Related to Advertising
+831,541910.0,Marketing Research and Public Opinion Polling
+832,541921.0,"Photography Studios, Portrait"
+833,541922.0,Commercial Photography
+834,541930.0,Translation and Interpretation Services
+835,541940.0,Veterinary Services
+836,541990.0,"All Other Professional, Scientific, and Technical Services"
+837,551111.0,Offices of Bank Holding Companies
+838,551112.0,Offices of Other Holding Companies
+839,551114.0,"Corporate, Subsidiary, and Regional Managing Offices"
+840,561110.0,Office Administrative Services
+841,561210.0,Facilities Support Services
+842,561311.0,Employment Placement Agencies
+843,561312.0,Executive Search Services
+844,561320.0,Temporary Help Services
+845,561330.0,Professional Employer Organizations
+846,561410.0,Document Preparation Services
+847,561421.0,Telephone Answering Services
+848,561422.0,Telemarketing Bureaus and Other Contact Centers
+849,561431.0,Private Mail Centers
+850,561439.0,Other Business Service Centers (including Copy Shops)
+851,561440.0,Collection Agencies
+852,561450.0,Credit Bureaus
+853,561491.0,Repossession Services
+854,561492.0,Court Reporting and Stenotype Services
+855,561499.0,All Other Business Support Services
+856,561510.0,Travel Agencies
+857,561520.0,Tour Operators
+858,561591.0,Convention and Visitors Bureaus
+859,561599.0,All Other Travel Arrangement and Reservation Services
+860,561611.0,Investigation Services
+861,561612.0,Security Guards and Patrol Services
+862,561613.0,Armored Car Services
+863,561621.0,Security Systems Services (except Locksmiths)
+864,561622.0,Locksmiths
+865,561710.0,Exterminating and Pest Control Services
+866,561720.0,Janitorial Services
+867,561730.0,Landscaping Services
+868,561740.0,Carpet and Upholstery Cleaning Services
+869,561790.0,Other Services to Buildings and Dwellings
+870,561910.0,Packaging and Labeling Services
+871,561920.0,Convention and Trade Show Organizers
+872,561990.0,All Other Support Services
+873,562111.0,Solid Waste Collection
+874,562112.0,Hazardous Waste Collection
+875,562119.0,Other Waste Collection
+876,562211.0,Hazardous Waste Treatment and Disposal
+877,562212.0,Solid Waste Landfill
+878,562213.0,Solid Waste Combustors and Incinerators
+879,562219.0,Other Nonhazardous Waste Treatment and Disposal
+880,562910.0,Remediation Services
+881,562920.0,Materials Recovery Facilities
+882,562991.0,Septic Tank and Related Services
+883,562998.0,All Other Miscellaneous Waste Management Services
+884,611110.0,Elementary and Secondary Schools
+885,611210.0,Junior Colleges
+886,611310.0,"Colleges, Universities, and Professional Schools"
+887,611410.0,Business and Secretarial Schools
+888,611420.0,Computer Training
+889,611430.0,Professional and Management Development Training
+890,611511.0,Cosmetology and Barber Schools
+891,611512.0,Flight Training
+892,611513.0,Apprenticeship Training
+893,611519.0,Other Technical and Trade Schools
+894,611610.0,Fine Arts Schools
+895,611620.0,Sports and Recreation Instruction
+896,611630.0,Language Schools
+897,611691.0,Exam Preparation and Tutoring
+898,611692.0,Automobile Driving Schools
+899,611699.0,All Other Miscellaneous Schools and Instruction
+900,611710.0,Educational Support Services
+901,621111.0,Offices of Physicians (except Mental Health Specialists)
+902,621112.0,"Offices of Physicians, Mental Health Specialists"
+903,621210.0,Offices of Dentists
+904,621310.0,Offices of Chiropractors
+905,621320.0,Offices of Optometrists
+906,621330.0,Offices of Mental Health Practitioners (except Physicians)
+907,621340.0,"Offices of Physical, Occupational and Speech Therapists, and Audiologists"
+908,621391.0,Offices of Podiatrists
+909,621399.0,Offices of All Other Miscellaneous Health Practitioners
+910,621410.0,Family Planning Centers
+911,621420.0,Outpatient Mental Health and Substance Abuse Centers
+912,621491.0,HMO Medical Centers
+913,621492.0,Kidney Dialysis Centers
+914,621493.0,Freestanding Ambulatory Surgical and Emergency Centers
+915,621498.0,All Other Outpatient Care Centers
+916,621511.0,Medical Laboratories
+917,621512.0,Diagnostic Imaging Centers
+918,621610.0,Home Health Care Services
+919,621910.0,Ambulance Services
+920,621991.0,Blood and Organ Banks
+921,621999.0,All Other Miscellaneous Ambulatory Health Care Services
+922,622110.0,General Medical and Surgical Hospitals
+923,622210.0,Psychiatric and Substance Abuse Hospitals
+924,622310.0,Specialty (except Psychiatric and Substance Abuse) Hospitals
+925,623110.0,Nursing Care Facilities (Skilled Nursing Facilities)
+926,623210.0,Residential Intellectual and Developmental Disability Facilities
+927,623220.0,Residential Mental Health and Substance Abuse Facilities
+928,623311.0,Continuing Care Retirement Communities
+929,623312.0,Assisted Living Facilities for the Elderly
+930,623990.0,Other Residential Care Facilities
+931,624110.0,Child and Youth Services
+932,624120.0,Services for the Elderly and Persons with Disabilities
+933,624190.0,Other Individual and Family Services
+934,624210.0,Community Food Services
+935,624221.0,Temporary Shelters
+936,624229.0,Other Community Housing Services
+937,624230.0,Emergency and Other Relief Services
+938,624310.0,Vocational Rehabilitation Services
+939,624410.0,Child Day Care Services
+940,711110.0,Theater Companies and Dinner Theaters
+941,711120.0,Dance Companies
+942,711130.0,Musical Groups and Artists
+943,711190.0,Other Performing Arts Companies
+944,711211.0,Sports Teams and Clubs
+945,711212.0,Racetracks
+946,711219.0,Other Spectator Sports
+947,711310.0,"Promoters of Performing Arts, Sports, and Similar Events with Facilities"
+948,711320.0,"Promoters of Performing Arts, Sports, and Similar Events without Facilities"
+949,711410.0,"Agents and Managers for Artists, Athletes, Entertainers, and Other Public Figures"
+950,711510.0,"Independent Artists, Writers, and Performers"
+951,712110.0,Museums
+952,712120.0,Historical Sites
+953,712130.0,Zoos and Botanical Gardens
+954,712190.0,Nature Parks and Other Similar Institutions
+955,713110.0,Amusement and Theme Parks
+956,713120.0,Amusement Arcades
+957,713210.0,Casinos (except Casino Hotels)
+958,713290.0,Other Gambling Industries
+959,713910.0,Golf Courses and Country Clubs
+960,713920.0,Skiing Facilities
+961,713930.0,Marinas
+962,713940.0,Fitness and Recreational Sports Centers
+963,713950.0,Bowling Centers
+964,713990.0,All Other Amusement and Recreation Industries
+965,721110.0,Hotels (except Casino Hotels) and Motels
+966,721120.0,Casino Hotels
+967,721191.0,Bed-and-Breakfast Inns
+968,721199.0,All Other Traveler Accommodation
+969,721211.0,RV (Recreational Vehicle) Parks and Campgrounds
+970,721214.0,Recreational and Vacation Camps (except Campgrounds)
+971,721310.0,"Rooming and Boarding Houses, Dormitories, and Workers' Camps"
+972,722310.0,Food Service Contractors
+973,722320.0,Caterers
+974,722330.0,Mobile Food Services
+975,722410.0,Drinking Places (Alcoholic Beverages)
+976,722511.0,Full-Service Restaurants
+977,722513.0,Limited-Service Restaurants
+978,722514.0,"Cafeterias, Grill Buffets, and Buffets"
+979,722515.0,Snack and Nonalcoholic Beverage Bars
+980,811111.0,General Automotive Repair
+981,811112.0,Automotive Exhaust System Repair
+982,811113.0,Automotive Transmission Repair
+983,811118.0,Other Automotive Mechanical and Electrical Repair and Maintenance
+984,811121.0,"Automotive Body, Paint, and Interior Repair and Maintenance"
+985,811122.0,Automotive Glass Replacement Shops
+986,811191.0,Automotive Oil Change and Lubrication Shops
+987,811192.0,Car Washes
+988,811198.0,All Other Automotive Repair and Maintenance
+989,811211.0,Consumer Electronics Repair and Maintenance
+990,811212.0,Computer and Office Machine Repair and Maintenance
+991,811213.0,Communication Equipment Repair and Maintenance
+992,811219.0,Other Electronic and Precision Equipment Repair and Maintenance
+993,811310.0,Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance
+994,811411.0,Home and Garden Equipment Repair and Maintenance
+995,811412.0,Appliance Repair and Maintenance
+996,811420.0,Reupholstery and Furniture Repair
+997,811430.0,Footwear and Leather Goods Repair
+998,811490.0,Other Personal and Household Goods Repair and Maintenance
+999,812111.0,Barber Shops
+1000,812112.0,Beauty Salons
+1001,812113.0,Nail Salons
+1002,812191.0,Diet and Weight Reducing Centers
+1003,812199.0,Other Personal Care Services
+1004,812210.0,Funeral Homes and Funeral Services
+1005,812220.0,Cemeteries and Crematories
+1006,812310.0,Coin-Operated Laundries and Drycleaners
+1007,812320.0,Drycleaning and Laundry Services (except Coin-Operated)
+1008,812331.0,Linen Supply
+1009,812332.0,Industrial Launderers
+1010,812910.0,Pet Care (except Veterinary) Services
+1011,812921.0,Photofinishing Laboratories (except One-Hour)
+1012,812922.0,One-Hour Photofinishing
+1013,812930.0,Parking Lots and Garages
+1014,812990.0,All Other Personal Services
+1015,813110.0,Religious Organizations
+1016,813211.0,Grantmaking Foundations
+1017,813212.0,Voluntary Health Organizations
+1018,813219.0,Other Grantmaking and Giving Services
+1019,813311.0,Human Rights Organizations
+1020,813312.0,"Environment, Conservation and Wildlife Organizations"
+1021,813319.0,Other Social Advocacy Organizations
+1022,813410.0,Civic and Social Organizations
+1023,813910.0,Business Associations
+1024,813920.0,Professional Organizations
+1025,813930.0,Labor Unions and Similar Labor Organizations
+1026,813940.0,Political Organizations
+1027,813990.0,"Other Similar Organizations (except Business, Professional, Labor, and Political Organizations)"
+1028,814110.0,Private Households
+1029,921110.0,Executive Offices
+1030,921120.0,Legislative Bodies
+1031,921130.0,Public Finance Activities
+1032,921140.0,"Executive and Legislative Offices, Combined"
+1033,921150.0,American Indian and Alaska Native Tribal Governments
+1034,921190.0,Other General Government Support
+1035,922110.0,Courts
+1036,922120.0,Police Protection
+1037,922130.0,Legal Counsel and Prosecution
+1038,922140.0,Correctional Institutions
+1039,922150.0,Parole Offices and Probation Offices
+1040,922160.0,Fire Protection
+1041,922190.0,"Other Justice, Public Order, and Safety Activities"
+1042,923110.0,Administration of Education Programs
+1043,923120.0,Administration of Public Health Programs
+1044,923130.0,"Administration of Human Resource Programs (except Education, Public Health, and Veterans' Affairs Programs)"
+1045,923140.0,Administration of Veterans' Affairs
+1046,924110.0,Administration of Air and Water Resource and Solid Waste Management Programs
+1047,924120.0,Administration of Conservation Programs
+1048,925110.0,Administration of Housing Programs
+1049,925120.0,Administration of Urban Planning and Community and Rural Development
+1050,926110.0,Administration of General Economic Programs
+1051,926120.0,Regulation and Administration of Transportation Programs
+1052,926130.0,"Regulation and Administration of Communications, Electric, Gas, and Other Utilities"
+1053,926140.0,Regulation of Agricultural Marketing and Commodities
+1054,926150.0,"Regulation, Licensing, and Inspection of Miscellaneous Commercial Sectors"
+1055,927110.0,Space Research and Technology
+1056,928110.0,National Security
+1057,928120.0,International Affairs
